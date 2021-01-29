@@ -1,0 +1,42 @@
+<div class="w-100 ba mb4">
+  <div class="mw8 pa2 pa0-l h3 center">
+
+      <div class="fl headerbox">
+          <a href="/"><div class="logo">
+            <div>LF</div>
+          </div></a>
+      </div>
+      <div class="fr">
+          <div class="hamburger hamburger--squeeze dn-ns dib-s">
+                  <div class="hamburger-box">
+                    <div class="hamburger-inner"></div>
+                  </div>
+                </div>
+                <div class="robotomono dn db-ns">
+                  <p class="dib v-mid"><a href="/">home</a> / <a href="/about">about</a> / <a href="/archives">archives</a></p>
+
+                </div>
+  </div>
+
+
+
+  </div>
+  <div class="dn lfmenu lfgreybackground">
+      <div class="w-100 pa4 center tc">
+          <ul class="list pa0 f3 robotomono">
+              <li class="pv2"><a href="/">home</a></li>  
+              <li class="pv2"><a href="/about">about us</a></li>
+              <li class="pv2"><a href="/archives">archives</a></li>
+          </ul>
+          </div>
+
+  </div>
+<script>
+    var $hamburger = $(".hamburger");
+    $hamburger.on("click", function(e) {
+      $hamburger.toggleClass("is-active");
+      $(".lfmenu").toggle();
+    });
+  </script>
+
+</div>

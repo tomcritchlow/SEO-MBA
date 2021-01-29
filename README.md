@@ -1,1 +1,1 @@
-# SEO MBA
+Coming soon
