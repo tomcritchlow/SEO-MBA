@@ -1,0 +1,34 @@
+/* CSS files add styling rules to your content */
+
+body {
+    font-family:lato;
+    color:#2F3F50;
+  }
+  
+  h1, h2, h3{
+    font-family:"Cormorant Garamond";
+  }
+  
+  .lato{
+    font-family:"Lato";
+  }
+  
+  .bg-seomba{
+    background-color: #F9F5F1;
+  }
+  
+  .seomba-red-accent{
+    color:#933D36;
+  }
+  
+  .b--seomba-red-accent{
+    border-color:#933D36;
+  }
+  
+  .seomba-red{
+    color:#CF534A;
+  }
+  
+  .bg-seomba-red{
+    background-color:#CF534A;
+  }
