@@ -1,6 +1,5 @@
 ---
 title: Consulting Services
-subtitle: How to hire me
 layout: page
 ---
 
