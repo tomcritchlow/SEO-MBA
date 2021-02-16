@@ -16,6 +16,10 @@ body {
   .bg-seomba{
     background-color: #F9F5F1;
   }
+
+  .bg-seomba-dark{
+    background-color:#394C60;
+  }
   
   .seomba-red-accent{
     color:#933D36;
