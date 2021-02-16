@@ -40,3 +40,7 @@ body {
   .bg-seomba-red{
     background-color:#CF534A;
   }
+
+  p a, p a:visited{
+    color:#CF534A;
+  }
