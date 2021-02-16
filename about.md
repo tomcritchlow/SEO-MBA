@@ -23,16 +23,6 @@ I call this executive presence.
 
 Executive presence is essential whether you’re working in-house, agency side or freelance. Unfortunately, learning executive presence is hard - it’s a tacit set of skills that are best learned from observation, imitation and practice.
 
-That’s why I’m launching not only this newsletter but also a hands-on online course - to provide an environment for learning and growth that can actually teach you some of these skills.
+That's why the SEO MBA exists. Right now it's a free weekly newsletter but I'm putting together an online course that I'll be launching soon:
 
-There are plenty of people in the industry who are knowledgeable SEOs, well versed in the technical specifics, data analysis, algorithm updates and ranking signals. While interviewing senior SEOs I spoke to a lot of people who know more than I do about some of the technical aspects of how SEO works.
-
-Unfortunately, technical expertise doesn’t matter if you can’t  operate at the executive layer of an organization. Too many SEOs lack the ability to create a compelling vision, tell a persuasive story, gather buy-in across the organization or work with other departments.
-
-So, here’s the summary:
-
-I'm launching the SEO MBA - a free newsletter focused on the business & leadership skills necessary for SEOs to succeed at the executive level.
-
-There’s going to be very little technical SEO advice. Instead I’m going to focus on helping you become a more confident and effective executive-level professional.
-
-In addition to the newsletter (which is free) I’m developing some online training programs to teach executive presence. Sign up for updates and more info.
+<iframe  src="https://seomba.substack.com/embed" width="100%" height="280" class="ba b--black-30 shadow-5 br2" frameborder="0" scrolling="no"></iframe>
