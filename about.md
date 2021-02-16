@@ -10,11 +10,11 @@ From running a bunch of senior level interviews it became clear to me that the b
 
 SEO is by nature a cross-disciplinary activity - it requires collaboration between product, technology, content, PR, marketing and more. So, it’s no surprise that the number one frustration for SEO professionals is getting things done.
 
-“The top 5 failure causes all had something to do with SEO execution challenges.” - Aleyda Solis
+> “The top 5 failure causes all had something to do with SEO execution challenges.” - Aleyda Solis
 
 And
 
-“The average SEO at a big company has been waiting over six months for their highest priority technical change and doesn’t anticipate seeing it deployed for at least another six months” - Will Critchlow
+> “The average SEO at a big company has been waiting over six months for their highest priority technical change and doesn’t anticipate seeing it deployed for at least another six months” - Will Critchlow
 
 To be an effective senior SEO professional you need some business skills. You need the ability to present ideas to the c-suite, create a compelling business case for multi-million dollar investments and work cross-functionally to gather buy-in from stakeholders.
 
