@@ -3,7 +3,7 @@ title: About the SEO MBA
 layout: page
 ---
 
-Hi, I’m Tom. I’ve spent the last 15 years working in SEO and digital media. I opened up the Distilled NYC office in 2011, worked at Google for a few years and have been running my own consulting business for the last 6 years.  
+Hi, I’m <a href="https://tomcritchlow.com/" >Tom Critchlow</a>. I’ve spent the last 15 years working in SEO and digital media. I opened up the Distilled NYC office in 2011, worked at Google for a few years and have been running my own consulting business for the last 6 years.  
 
 I’ve spent the last two years embedded inside some large organizations helping them restructure and build new SEO teams - and my latest gig involved hiring a VP SEO position and several senior SEO roles underneath.
 
