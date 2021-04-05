@@ -1,6 +1,21 @@
 ---
+title: Executive Presence for SEOs - Course Beta
+layout: page
 ---
 
+Ready to join the live cohort beta version of the course? See here for all the details.
+
+The course will run for 5 weeks, 90min zoom every Thursday at 2pm PT / 5pm ET on the following dates:
+
+- April 15
+- April 22
+- April 29
+- May 6
+- May 13
+
+Price is $200, which includes free access to the full self-paced course when it launches later this year.
+
+Questions? Email me: tjcritchlow@gmail.com
 
 <!-- Load Stripe.js on your website. -->
 <script src="https://js.stripe.com/v3"></script>
