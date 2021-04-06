@@ -3,7 +3,7 @@ title: Executive Presence for SEOs - Course Beta
 layout: page
 ---
 
-Ready to join the live cohort beta version of the course? See here for all the details.
+Ready to join the live cohort beta version of the course? [See here for all the details](https://seomba.substack.com/p/executive-presence-for-seos-beta).
 
 The course will run for 5 weeks, 90min zoom every Thursday at 10am PT / 1pm ET on the following dates:
 
