@@ -23,7 +23,7 @@ Questions? Email me: tjcritchlow@gmail.com
 <!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
 <div class="">
   
-  <a id="checkout-button-price_1Id673L5622gsGmhuuzXenee" class="f4 link dim br3 ph3 pv2 mb2 dib white bg-seomba-red" href="#0">Checkout</a>
+  <a id="checkout-button-price_1Id6K6L5622gsGmh36Ki0zwr" class="f4 link dim br3 ph3 pv2 mb2 dib white bg-seomba-red" href="#0">Checkout</a>
   
 </div>
 
@@ -31,16 +31,16 @@ Questions? Email me: tjcritchlow@gmail.com
 
 <script>
 (function() {
-  var stripe = Stripe('pk_test_51IbsfsL5622gsGmhJJ5dSs1jyz8DT7fHab9VY8OviLn3a8BuDoCmcItTB7fNB9x39hNVlXfDlgI8hdSLRwRuobfs00rkVJ2QO5');
+  var stripe = Stripe('pk_live_51IbsfsL5622gsGmhUlHqPNCa70Ac3I3l6pSeEenMhSzugJJGvXaVuD9U6rlgq1RVse1J4phWEGLGwIAoH8zSo2GL00kOBE7wRT');
 
-  var checkoutButton = document.getElementById('checkout-button-price_1Id673L5622gsGmhuuzXenee');
+  var checkoutButton = document.getElementById('checkout-button-price_1Id6K6L5622gsGmh36Ki0zwr');
   checkoutButton.addEventListener('click', function () {
     /*
      * When the customer clicks on the button, redirect
      * them to Checkout.
      */
     stripe.redirectToCheckout({
-      lineItems: [{price: 'price_1Id673L5622gsGmhuuzXenee', quantity: 1}],
+      lineItems: [{price: 'price_1Id6K6L5622gsGmh36Ki0zwr', quantity: 1}],
       mode: 'payment',
       /*
        * Do not rely on the redirect to the successUrl for fulfilling
