@@ -1,7 +1,7 @@
 ---
+title: You're In!
+layout: page
 ---
-
-## You're in!
 
 Welcome to the SEO MBA beta course for "Executive Presence for SEOs". Thanks for joining.
 
