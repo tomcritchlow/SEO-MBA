@@ -23,7 +23,7 @@ Questions? Email me: tjcritchlow@gmail.com
 <!-- Create a button that your customers click to complete their purchase. Customize the styling to suit your branding. -->
 <div class="ph3">
   
-  <a id="checkout-button-price_1Ibss8L5622gsGmh54W16XLz" class="f6 link dim br3 ph3 pv2 mb2 dib white bg-seomba-red" href="#0">Checkout</a>
+  <a id="checkout-button-price_1Ibss8L5622gsGmh54W16XLz" class="f4 link dim br3 ph3 pv2 mb2 dib white bg-seomba-red" href="#0">Checkout</a>
   
 </div>
 
@@ -51,7 +51,7 @@ mode: 'payment',
 * https://stripe.com/docs/payments/checkout/fulfill-orders
 */
 successUrl: 'https://seomba.com/thankyou',
-cancelUrl: 'https://seomba.com/canceled',
+cancelUrl: 'https://seomba.com/cancelled',
 })
 .then(function (result) {
 if (result.error) {
