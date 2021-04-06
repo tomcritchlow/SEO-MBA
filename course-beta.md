@@ -49,7 +49,7 @@ Questions? Email me: tjcritchlow@gmail.com
        * Instead use one of the strategies described in
        * https://stripe.com/docs/payments/checkout/fulfill-orders
        */
-      successUrl: 'https://seomba.com/success',
+      successUrl: 'https://seomba.com/thankyou',
       cancelUrl: 'https://seomba.com/cancelled',
     })
     .then(function (result) {
