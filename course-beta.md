@@ -66,6 +66,6 @@ So, to recap, sign up for beta #2 if:
 
 **Price: $500**
 
-[Sign up here](https://buy.stripe.com/8wMcP5beOc8naaIdQQ).
+<a class="f6 link dim br3 ph3 pv2 mb2 dib white bg-seomba-red" href="https://buy.stripe.com/8wMcP5beOc8naaIdQQ">Sign Up Here</a>
 
 *Eventually this beta course will become a full self-paced course and learning hub and anyone who signs up for the beta will get full access to the final course when it launches*
