@@ -1,5 +1,5 @@
 ---
-title: Executive Presence for SEOs - Course Beta "#2"
+title: Executive Presence for SEOs - Course Beta '#2'
 layout: page
 ---
 
