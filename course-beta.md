@@ -15,7 +15,7 @@ It's designed to teach you:
 
 ## Course Schedule & Outline
 
-The beta format is a weekly 90-min zoom for five weeks. Topics and dates:
+The beta format is a weekly 90-min zoom at 12pm ET for five weeks. Topics and dates:
 
 - September 15th: Good SEO Strategy
 - September 22nd: Models & Forecasts
@@ -45,9 +45,11 @@ So hopefully
 
 So, to recap, sign up for beta #2 if:
 
-- You are free on NBED
+- You are free weekly at 12pm ET starting Wed, Sep 15h
 - You acknowledge this is a beta
 - You're willing to provide feedback throughout the course
 - You're ready to improve your executive presence
 
 [Sign up here](https://buy.stripe.com/8wMcP5beOc8naaIdQQ).
+
+*Eventually this beta course will become a full self-paced course and learning hub and anyone who signs up for the beta will get full access to the final course when it launches*
