@@ -38,7 +38,7 @@ I was part of the SEO MBA beta cohort and I highly recommend this course to SEOs
 <div class="bt b--black-30 w-100 mt3 tr">Areej AbuAli - Head of SEO, Papier</div>
 </div>
 
-And:
+Some folks had some nice immediate results:
 
 <div class="i f5 ba ma0 pa3 b--seomba-red-accent">
 If you want to learn exactly how to present ideas and get executive buy-in for SEO projects, SEO MBA is easily the most important and unique course you can invest your time in. Unlike any other SEO training or course, SEO MBA teaches you how to build a presentation and strategy to get executive buy-in upfront. Tom’s one simple tip on what to how to write a slide headline (and exactly what not to do) has radically transformed our client presentation and pitch decks. <strong>The course ended last week and it has already helped our entire agency communicate better and close 2 high quality six-figure deals.</strong>
