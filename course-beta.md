@@ -36,4 +36,4 @@ So, to recap, sign up for beta #2 if:
 - You're willing to provide feedback throughout the course
 - You're ready to improve your executive presence
 
-Sign up here.
+[Sign up here](https://buy.stripe.com/8wMcP5beOc8naaIdQQ).
