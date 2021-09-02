@@ -13,11 +13,25 @@ It's designed to teach you:
 - How to communicate your ideas 
 - Get buy-in
 
+## Course Schedule & Outline
+
+The beta format is a weekly 90-min zoom for five weeks. Topics and dates:
+
+- September 15th: Good SEO Strategy
+- September 22nd: Models & Forecasts
+- September 29th: Effective Presentations
+- October 6th: Effecting Change
+- October 13th: Wrap-up & Group Discussion
+
+In addition you should expect 1-2 hours a week of reading and homework assignments.
+
 ## This is a beta!
 
 This is a beta which means it's a work in progress! It's important to know that going in. I'll be asking for feedback 
 
-But it's the second time I'll be running it. Last time, people had some nice things to say:
+## Feedback from the first cohort
+
+Even though it's a beta the first time I ran the course people had some nice things to say:
 
 > I was part of the SEO MBA beta cohort and I highly recommend this course to SEOs who are looking to level up their strategic skills. The course covers all things SEO strategy including forecasting, effective presentations and working cross-functionally with different teams. Throughout the course, Tom shares processes and examples that are applicable to those client-side, agency-side and solo consultants. It’s extremely actionable and includes lots of learnings that I embedded in my day to day work. **Most importantly, I now feel much more confident presenting my SEO vision to leadership and executive teams**.
 
