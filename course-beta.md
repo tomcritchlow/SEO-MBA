@@ -10,8 +10,11 @@ That's why I'm building the course: Executive Presence for SEOs.
 It's designed to teach you:
 
 - How to create effective SEO strategies
-- How to communicate your ideas 
-- Get buy-in
+- How to communicate your ideas
+- How to present to executives
+- How to get buy-in and effect change
+
+The course is designed for in-house, agency and solo folks but you'll get the most value from the course if you're working with larger companies where cross-functional issues and executive presence matter most.
 
 ## Course Schedule & Outline
 
@@ -22,6 +25,8 @@ The format is a weekly 90-min zoom at 12pm ET for five weeks. Topics and dates:
 - September 29th: Effective Presentations
 - October 6th: Effecting Change
 - October 13th: Wrap-up & Group Discussion
+
+I'll cap seats at 10-15 so it'll be a small group each week.
 
 In addition you should expect 1-2 hours a week of reading and homework assignments.
 
@@ -51,9 +56,6 @@ Remember, this course isn't about teaching you how to do SEO. It's teaching you 
 8 years into my career as a professional SEO, Tom's MBA has helped me discover new ways to pitch projects, present forecasts and slide decks, drive change in large organizations and think more strategically. <strong>There are a lot of SEO courses that will tell you how to write a title tag or conduct keyword research. This is not one of them. Tom operates on another level, and you should consider yourself lucky if you ever get the chance to pick his brain about any SEO- and strategy related topic</strong>.
 <div class="bt b--black-30 w-100 mt3 pt2 tr">Marco Schlauri - Founder, Digital Leverage</div>
 </div>
-
-
-So hopefully 
 
 ## Sign up now
 
