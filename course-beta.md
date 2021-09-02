@@ -33,15 +33,25 @@ This is a beta which means it's a work in progress! It's important to know that 
 
 Even though it's a beta the first time I ran the course people had some nice things to say:
 
-> I was part of the SEO MBA beta cohort and I highly recommend this course to SEOs who are looking to level up their strategic skills. The course covers all things SEO strategy including forecasting, effective presentations and working cross-functionally with different teams. Throughout the course, Tom shares processes and examples that are applicable to those client-side, agency-side and solo consultants. It’s extremely actionable and includes lots of learnings that I embedded in my day to day work. **Most importantly, I now feel much more confident presenting my SEO vision to leadership and executive teams**.
+<div class="i f5 ba ma0 pa2">
+I was part of the SEO MBA beta cohort and I highly recommend this course to SEOs who are looking to level up their strategic skills. The course covers all things SEO strategy including forecasting, effective presentations and working cross-functionally with different teams. Throughout the course, Tom shares processes and examples that are applicable to those client-side, agency-side and solo consultants. It’s extremely actionable and includes lots of learnings that I embedded in my day to day work. <strong>Most importantly, I now feel much more confident presenting my SEO vision to leadership and executive teams</strong>.
+<div class="bt w-100">Areej AbuAli - Head of SEO, Papier</div>
+</div>
 
 And:
 
-> If you want to learn exactly how to present ideas and get executive buy-in for SEO projects, SEO MBA is easily the most important and unique course you can invest your time in. Unlike any other SEO training or course, SEO MBA teaches you how to build a presentation and strategy to get executive buy-in upfront. Tom’s one simple tip on what to how to write a slide headline (and exactly what not to do) has radically transformed our client presentation and pitch decks. **The course ended last week and it has already helped our entire agency communicate better and close 2 high quality six-figure deals.**
+<div class="i f5 ba ma0 pa2">
+If you want to learn exactly how to present ideas and get executive buy-in for SEO projects, SEO MBA is easily the most important and unique course you can invest your time in. Unlike any other SEO training or course, SEO MBA teaches you how to build a presentation and strategy to get executive buy-in upfront. Tom’s one simple tip on what to how to write a slide headline (and exactly what not to do) has radically transformed our client presentation and pitch decks. <strong>The course ended last week and it has already helped our entire agency communicate better and close 2 high quality six-figure deals.</strong>
+<div class="bt w-100">Leigh Wasson - Chief Marketing Officer, Supreme Optimization </div>
+</div>
 
 Remember, this course isn't about teaching you how to do SEO. It's teaching you how to be an effective senior level SEO professional:
 
+<div class="i f5 ba ma0 pa2">
 > 8 years into my career as a professional SEO, Tom's MBA has helped me discover new ways to pitch projects, present forecasts and slide decks, drive change in large organizations and think more strategically. **There are a lot of SEO courses that will tell you how to write a title tag or conduct keyword research. This is not one of them. Tom operates on another level, and you should consider yourself lucky if you ever get the chance to pick his brain about any SEO- and strategy related topic**.
+<div class="bt w-100">Marco Schlauri - Founder, Digital Leverage</div>
+</div>
+
 
 So hopefully 
 
@@ -53,6 +63,8 @@ So, to recap, sign up for beta #2 if:
 - You acknowledge this is a beta
 - You're willing to provide feedback throughout the course
 - You're ready to improve your executive presence
+
+**Price: $500**
 
 [Sign up here](https://buy.stripe.com/8wMcP5beOc8naaIdQQ).
 
