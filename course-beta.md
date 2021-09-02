@@ -1,5 +1,5 @@
 ---
-title: Executive Presence for SEOs - Course Beta '#2'
+title: "Executive Presence for SEOs - Course Beta #2"
 layout: page
 ---
 
@@ -15,7 +15,7 @@ It's designed to teach you:
 
 ## Course Schedule & Outline
 
-The beta format is a weekly 90-min zoom at 12pm ET for five weeks. Topics and dates:
+The format is a weekly 90-min zoom at 12pm ET for five weeks. Topics and dates:
 
 - September 15th: Good SEO Strategy
 - September 22nd: Models & Forecasts
@@ -38,6 +38,10 @@ Even though it's a beta the first time I ran the course people had some nice thi
 And:
 
 > If you want to learn exactly how to present ideas and get executive buy-in for SEO projects, SEO MBA is easily the most important and unique course you can invest your time in. Unlike any other SEO training or course, SEO MBA teaches you how to build a presentation and strategy to get executive buy-in upfront. Tom’s one simple tip on what to how to write a slide headline (and exactly what not to do) has radically transformed our client presentation and pitch decks. **The course ended last week and it has already helped our entire agency communicate better and close 2 high quality six-figure deals.**
+
+Remember, this course isn't about teaching you how to do SEO. It's teaching you how to be an effective senior level SEO professional:
+
+> 8 years into my career as a professional SEO, Tom's MBA has helped me discover new ways to pitch projects, present forecasts and slide decks, drive change in large organizations and think more strategically. **There are a lot of SEO courses that will tell you how to write a title tag or conduct keyword research. This is not one of them. Tom operates on another level, and you should consider yourself lucky if you ever get the chance to pick his brain about any SEO- and strategy related topic**.
 
 So hopefully 
 
