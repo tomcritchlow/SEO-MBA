@@ -23,7 +23,7 @@ The format is a weekly 90-min zoom at 12pm ET for five weeks. Topics and dates:
 - September 15th: Good SEO Strategy
 - September 22nd: Models & Forecasts
 - September 29th: Effective Presentations
-- October 6th: Effecting Change
+- October 6th: Getting things done
 - October 13th: Wrap-up & Group Discussion
 
 I'll cap seats at 10-15 so it'll be a small group each week.
