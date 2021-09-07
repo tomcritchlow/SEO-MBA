@@ -3,6 +3,8 @@ title: "Executive Presence for SEOs - Course Beta #2"
 layout: page
 ---
 
+**Update: Tickets are sold out! Sorry if you didn't manage to get a ticket. Hang tight, the full course is coming soon**
+
 Getting buy-in & resources is the number one frustration for SEO professionals. And in my own experience there are far more SEOs that have knowledge of how SEO works than how businesses operate.
 
 That's why I'm building the course: Executive Presence for SEOs.
@@ -70,7 +72,7 @@ So, to recap, sign up for beta #2 if:
 
 **Price: $500**
 
-<div class=" bg-seomba-red shadow-1 br3 f3 tc pa2 grow"><a class="w-100 db link white tc" href="https://buy.stripe.com/8wMcP5beOc8naaIdQQ">Sign Up Here</a></div>
+<div class=" bg-gray shadow-1 br3 f3 tc pa2 grow"><a class="w-100 db link white tc" href="#">Sold out!</a></div>
 
 <span class="f5 black-50 i">Checkout provided by Stripe.com</span>
 
