@@ -44,3 +44,8 @@ body {
   p a, p a:visited{
     color:#CF534A;
   }
+
+
+#wistia_chrome_23{
+  box-shadow:0 0 0.8rem rgb(0 0 0 / 13%);
+}
