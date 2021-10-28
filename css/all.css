@@ -56,3 +56,14 @@ body {
 #wistia_chrome_23{
   box-shadow:0 0 0.8rem rgb(0 0 0 / 13%);
 }
+
+.testimonial:after{
+  position: absolute;
+  top: 10px;
+  left: 20px;
+  width: 100%;
+  height: 100%;
+  border: 1px solid #000;
+  content: '';
+  z-index: -1;
+}
