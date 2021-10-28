@@ -57,10 +57,10 @@ body {
   box-shadow:0 0 0.8rem rgb(0 0 0 / 13%);
 }
 
-.testimonial:after{
+.testimonialshadow{
   position: absolute;
-  top: 10px;
-  left: 20px;
+  top: 5px;
+  left: 5px;
   width: 100%;
   height: 100%;
   border: 1px solid #000;
