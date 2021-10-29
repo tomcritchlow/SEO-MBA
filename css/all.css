@@ -49,10 +49,13 @@ body {
     color:#CF534A;
   }
 
-.maintitle{
-  font-size:60px;
-  line-height:65px;
-}
+  @media (min-width: 60em) { 
+
+    .maintitle{
+      font-size:60px;
+      line-height:65px;
+    }
+  }
 
 #wistia_chrome_23{
   box-shadow:0 0 0.8rem rgb(0 0 0 / 13%);
