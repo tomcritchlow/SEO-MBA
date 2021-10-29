@@ -7,6 +7,48 @@
 
     {% include nav.html %}
 
+
+    <stickynav>
+      Hello
+    </stickynav>
+
+    <style>
+      header {
+        position: relative;
+        width: 100%;
+        height: 60px;
+        line-height: 60px;
+        background: #eee;
+        color: #666;
+        padding-left: 20px;
+        border-bottom: 5px solid #ddd
+    }
+    header.clone {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        transform: translateY(-100%);
+        transition: 0.2s transform cubic-bezier(.3,.73,.3,.74);
+    }
+
+    body.down header.clone {
+        transform: translateY(0);
+    }
+    </style>
+
+    <script>
+          $(document).ready(function() {
+        var $header = $("stickynav"),
+            $clone = $header.before($header.clone().addClass("clone"));
+        
+        $(window).on("scroll", function() {
+            var fromTop = $(window).scrollTop();
+            $("body").toggleClass("down", (fromTop > 400));
+        });
+    });
+    </script>
+
     <!-- Sticky buy now from here http://jsfiddle.net/ianclark001/wELFH/147/ -->
       
     <div class="w-100 center ph4-l tc"><h1 class="maintitle f2 lh-title b">Become a more <span class="i red">confident</span> and <span class="i red">effective</span> <br class="dn db-l">SEO professional</h1></div>
