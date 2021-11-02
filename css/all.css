@@ -16,7 +16,20 @@ body {
   .cormorant{
     font-family:"Cormorant Garamond";
   }
-  
+
+  .hamburger{
+    padding:0px 0px;
+}
+
+.hamburger-inner, .hamburger-inner:before, .hamburger-inner:after {
+    height: 2px;
+    width: 30px;
+}
+
+.hamburger.is-active:hover {
+    opacity: 1;
+}
+
   .bg-seomba{
     background-color: #F9F5F1;
   }
