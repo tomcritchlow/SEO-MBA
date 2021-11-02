@@ -25,9 +25,22 @@
 
     <link rel="icon" href="/images/icon.png" />
     
-     <meta property="og:type"   content="article" />
+<meta property="og:type"   content="article" />
  <meta property="og:url"    content="https://seomba.com/" />
+
+ {% if page.title %}
+ <meta property="og:title"  content="{{page.title}}" />
+ {% else %}
  <meta property="og:title"  content="The SEO MBA" />
+ {% endif %}
+
+ {% if page.title %}
+ <meta property="og:description"  content="{{page.subtitle}}" />
+ {% else %}
+ <meta property="og:description"  content="Leadership & Business Skills for SEOs" />
+ {% endif %}
+ 
+ 
  
  
 
@@ -41,8 +54,18 @@
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@theseomba">
 <meta name="twitter:creator" content="@theseomba">
-<meta name="twitter:title" content="The SEO MBA">
-<meta name="twitter:description" content="Leadership & Business Skills for SEOs">
+
+{% if page.title %}
+<meta name="twitter:title" content="{{page.title}}">
+ {% else %}
+ <meta name="twitter:title" content="The SEO MBA">
+ {% endif %}
+
+ {% if page.subtitle %}
+ <meta name="twitter:description" content="{{page.subtitle}}">
+ {% else %}
+ <meta name="twitter:description" content="Leadership & Business Skills for SEOs">
+ {% endif %}
 
 {% if page.og %}
  <meta property="twitter:image"  content="{{page.og}}" />
