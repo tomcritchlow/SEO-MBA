@@ -3,7 +3,7 @@ title: About the SEO MBA
 layout: page
 ---
 
-Hi, I’m <a href="https://tomcritchlow.com/" >Tom Critchlow</a>. I’ve spent the last 15 years working in SEO and digital media. I opened up the Distilled NYC office in 2011, worked at Google for a few years and have been running my own consulting business for the last 6 years.  
+Hi, I’m <a href="https://tomcritchlow.com/" >Tom Critchlow</a>. I’ve spent the last 15 years working in SEO and digital media. I opened up the Distilled NYC office in 2011, worked at Google for a few years and have been running my own consulting business for the last 7 years.  
 
 I’ve spent the last two years embedded inside some large organizations helping them restructure and build new SEO teams - and my latest gig involved hiring a VP SEO position and several senior SEO roles underneath.
 
@@ -23,6 +23,6 @@ I call this executive presence.
 
 Executive presence is essential whether you’re working in-house, agency side or freelance. Unfortunately, learning executive presence is hard - it’s a tacit set of skills that are best learned from observation, imitation and practice.
 
-That's why the SEO MBA exists. Right now it's a free weekly newsletter but I'm putting together an online course that I'll be launching soon:
+That's why the SEO MBA exists.
 
-<iframe  src="https://seomba.substack.com/embed" width="100%" height="280" class="ba b--black-30 shadow-5 br2" frameborder="0" scrolling="no"></iframe>
+There's a <a href="https://seomba.substack.com">free regular email</a> and a <a href="https://seomba.com/executive-presence/">self paced online course</a>.
