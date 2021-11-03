@@ -76,7 +76,9 @@
  <meta name="twitter:image" content="https://seomba.com/images/seomba-og.png">
  {% endif %}
 
-
+ {% if page.noindex %}
+ <meta name="robots" content="noindex">
+ {% endif %}
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-K8ECP69MCP"></script>

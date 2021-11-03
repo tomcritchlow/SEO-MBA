@@ -1,6 +1,7 @@
 ---
 title: Weekly Office Hours
 layout: page
+noindex: true
 ---
 
 If you have enrolled on the SEO MBA course at the Professional tier or Executive tier then you get access to the weekly office hours.
