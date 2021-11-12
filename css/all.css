@@ -2,7 +2,7 @@
 
 body {
     font-family:lato;
-    color:#2F3F50;
+    color:#293D52;
   }
   
   h1, h2, h3{
@@ -35,7 +35,7 @@ body {
   }
 
   .bg-seomba-dark{
-    background-color:#394C60;
+    background-color:#293D52;
   }
   
   .seomba-light{
@@ -51,7 +51,7 @@ body {
   }
 
   .b--seomba-blue{
-    border-color:#394C60;
+    border-color:#293D52;
   }
   
   .seomba-red{
