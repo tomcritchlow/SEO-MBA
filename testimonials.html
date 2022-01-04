@@ -20,23 +20,10 @@ subtitle: What people are saying
       
       <div class="w-100 mw9 bg-seomba center flex flex-wrap justify-center z-0 relative">
 
-        <div class="testimonial bg-white shadow-1 pa4 ma4 w-25-l relative cormorant">
-          <h1 class="f-subheadline lh-solid ma0 pa0 fw4">“</h1>
-          <p class="f4 pb5-l pt0 mt0 i">Tom really understands the nuances of speaking to executives.
-          <br><br>
-          <mark class="b">He's created a course that will help any strategy minded marketer communicate their ideas and get buy-in from their clients or leadership</mark>.</p>
-          <div class="absolute-l bottom-0 pv3 flex items-center">
-            <div class="w-20">
-            <img class="br-100" src="/images/ben.jpeg" />
-            </div>
-            <div class="w-75 pl2 avenir">
-            <div class="b">Benjamin Collins</div>
-            <div class="">President, Boldist</div>
-            </div>
-          </div>
-
-          <div class="testimonialshadow ba b--black-50"></div>
-        </div>
+        {% include testimonial.html
+          name = "Ben Collins"
+          title = "President, Boldist"
+        %}
 
 
       </div>
