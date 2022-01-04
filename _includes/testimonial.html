@@ -1,3 +1,15 @@
+{% if tweet %}
+
+<div class="testimonial bg-white shadow-1 pa4 ma4 w-25-l relative cormorant">
+
+    <blockquote class='twitter-tweet' data-conversation='none'><a href='{{include.tweet}}'></a></blockquote> <script async src='https://platform.twitter.com/widgets.js' charset='utf-8'></script>
+
+    <div class="testimonialshadow ba b--black-50"></div>
+</div>
+
+{% else %}
+
+
 <div class="testimonial bg-white shadow-1 pa4 ma4 w-25-l relative cormorant">
     <p class="f4 pb3-l pt0 mt0 i">{{include.quote}}</p>
     <div class=" pv3 flex items-center">
