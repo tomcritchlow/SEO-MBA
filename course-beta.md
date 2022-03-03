@@ -34,9 +34,9 @@ Cohorts begin the week of 14th March:
 
 ![](/images/2022-client-mgmt-beta-schedule.png)
 
-Cohort #1: Tuesdays @ 10am ET for 5 weeks <button class="dib br3 ml2 pa2 f5 bn shadow-3 pointer grow" style="background-color:#31930c"><a href="https://buy.stripe.com/dR63evfv42xNdmU8wy" class="link" style="color:white">Join Tuesday Cohort</a></button>
+Cohort #1: Tuesdays @ 10am ET for 5 weeks <button class="dib br3 ml2 pa2 f5 bn shadow-3 pointer grow" style="background-color:#31930c"><a href="https://buy.stripe.com/dR63evfv42xNdmU8wy" class="link" style="color:white">Join Cohort</a></button>
 
-Cohort #2: Thursdays @ 12pm ET for 5 weeks <button class="dib br3 ml2 pa2 f5 bn shadow-3 pointer grow" style="background-color:#cf534a"><a href="https://buy.stripe.com/bIY16ngz8egv1EcaEH" class="link" style="color:white">Join Thursday Cohort</a></button>
+Cohort #2: Thursdays @ 12pm ET for 5 weeks <button class="dib br3 ml2 pa2 f5 bn shadow-3 pointer grow" style="background-color:#cf534a"><a href="https://buy.stripe.com/bIY16ngz8egv1EcaEH" class="link" style="color:white">Join Cohort</a></button>
 
 <span class="f5 black-50 i">Checkout provided by Stripe.com</span>
 
@@ -48,8 +48,8 @@ Warning: This is a beta which means it's a work in progress! I'm confident the c
 
 Both beta cohorts are priced at $350. Spots are limited and provided on a first come, first served basis. Sign up here:
 
-Cohort #1: Tuesdays @ 10am ET for 5 weeks <button class="dib br3 ml2 pa2 f5 bn shadow-3 pointer grow" style="background-color:#31930c"><a href="https://buy.stripe.com/dR63evfv42xNdmU8wy" class="link" style="color:white">Join Tuesday Cohort</a></button>
+Cohort #1: Tuesdays @ 10am ET for 5 weeks <button class="dib br3 ml2 pa2 f5 bn shadow-3 pointer grow" style="background-color:#31930c"><a href="https://buy.stripe.com/dR63evfv42xNdmU8wy" class="link" style="color:white">Join Cohort</a></button>
 
-Cohort #2: Thursdays @ 12pm ET for 5 weeks <button class="dib br3 ml2 pa2 f5 bn shadow-3 pointer grow" style="background-color:#cf534a"><a href="https://buy.stripe.com/bIY16ngz8egv1EcaEH" class="link" style="color:white">Join Thursday Cohort</a></button>
+Cohort #2: Thursdays @ 12pm ET for 5 weeks <button class="dib br3 ml2 pa2 f5 bn shadow-3 pointer grow" style="background-color:#cf534a"><a href="https://buy.stripe.com/bIY16ngz8egv1EcaEH" class="link" style="color:white">Join Cohort</a></button>
 
 <span class="f5 black-50 i">Checkout provided by Stripe.com</span>
