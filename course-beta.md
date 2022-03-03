@@ -1,79 +1,50 @@
 ---
-title: "Executive Presence for SEOs - Course Beta #2"
+title: "Client Management  - Course Beta #2"
 layout: page
 ---
 
-**Update: Tickets are sold out! Sorry if you didn't manage to get a ticket. Hang tight, the full course is coming soon**
+If you work at an SEO agency or as an independent consultant, managing clients is essential to the success of your work. This course isn't about *account management* or *project management* - it's about fundamentally working with clients to **get things done**.
 
-Getting buy-in & resources is the number one frustration for SEO professionals. And in my own experience there are far more SEOs that have knowledge of how SEO works than how businesses operate.
+Good SEO is fundamentally consultative - you need to go beyond simply providing recommendations, to persuading and supporting clients in implementing our recommendations. That's why I'm building a course to deepen your client management skills
 
-That's why I'm building the course: Executive Presence for SEOs.
+This course is designed for mid-career agency SEO professionals (and freelancers) who need to get better at working with clients. The topis we'll cover:
 
-It's designed to teach you:
+- Manage client expectations
+- Communicate the value of SEO
+- Build trust and client relationships
+- Retain and upsell client projects
 
-- How to create effective SEO strategies
-- How to communicate your ideas
-- How to present to executives
-- How to get buy-in and effect change
+Ultimately it's about improving your client communication skills to be more effective, more confident and level up your career.
 
-The course is designed for in-house, agency and solo folks but you'll get the most value from the course if you're working with larger companies where cross-functional issues and executive presence matter most.
+## Course Curriculum
 
-## Course Schedule & Outline
+The beta course format is a live cohort of 10-15 people meeting for 90 mins / week for 5 weeks. The structure is roughly:
 
-The format is a weekly 90-min zoom at 12pm ET for five weeks. Topics and dates:
+- Week 1: What is client management and why it matters
+- Week 2: Alignment: 
+- Week 3: Clarity
+- Week 4: Trust
+- Week 5: Example agency positioning, sales, SOW, kickoff, upsell
 
-- September 15th: Good SEO Strategy
-- September 22nd: Models & Forecasts
-- September 29th: Effective Presentations
-- October 6th: Getting things done
-- October 13th: Wrap-up & Group Discussion
+## Course Schedule
 
-I'll cap seats at 10-15 so it'll be a small group each week.
+I'm launching two beta cohorts to test the material, gain feedback .
 
-In addition you should expect 1-2 hours a week of reading and homework assignments.
+Cohort #1: Tuesdays @ 9am ET for 5 weeks [sign up here](https://buy.stripe.com/dR63evfv42xNdmU8wy)
+Cohort #2: Thursdays @ 9am ET for 5 weeks [sign up here](https://buy.stripe.com/bIY16ngz8egv1EcaEH)
+
+![](/images/2022-client-mgmt-beta-schedule.png)
 
 ## This is a beta!
 
-Warning: This is a beta which means it's a work in progress! I've been refining the course materials for a while and already run one beta cohort but you should be prepared for a few rough edges.
+Warning: This is a beta which means it's a work in progress! I'm confident the course will be valuable but it may also be slightly less raw and not as polished as the final course. Throughout the course I'll be sending surveys to gather feedback and I'd really love it if you can fill these out as we go.
 
-Throughout the course I'll be sending surveys and feedback links and I'd really love it if you can fill these out as this will help improve the course for the next round.
 
-## Feedback from the first cohort
+## Sign Up Now
 
-The first time I ran the course people had some nice things to say:
+Spots are limited and provided on a first come, first served basis. Sign up here:
 
-<div class="i f5 ba ma0 pa3 b--seomba-red-accent br2">
-I was part of the SEO MBA beta cohort and I highly recommend this course to SEOs who are looking to level up their strategic skills. The course covers all things SEO strategy including forecasting, effective presentations and working cross-functionally with different teams. Throughout the course, Tom shares processes and examples that are applicable to those client-side, agency-side and solo consultants. It’s extremely actionable and includes lots of learnings that I embedded in my day to day work. <strong>Most importantly, I now feel much more confident presenting my SEO vision to leadership and executive teams</strong>.
-<div class="bt b--black-30 w-100 mt3 pt2 tr">Areej AbuAli - Head of SEO, Papier</div>
-</div>
-
-Including some nice immediate results:
-
-<div class="i f5 ba ma0 pa3 b--seomba-red-accent br2">
-If you want to learn exactly how to present ideas and get executive buy-in for SEO projects, SEO MBA is easily the most important and unique course you can invest your time in. Unlike any other SEO training or course, SEO MBA teaches you how to build a presentation and strategy to get executive buy-in upfront. Tom’s one simple tip on what to how to write a slide headline (and exactly what not to do) has radically transformed our client presentation and pitch decks. <strong>The course ended last week and it has already helped our entire agency communicate better and close 2 high quality six-figure deals.</strong>
-<div class="bt b--black-30 w-100 mt3 pt2 tr">Leigh Wasson - Chief Marketing Officer, Supreme Optimization </div>
-</div>
-
-Remember, this course isn't about teaching you *how to do SEO*. It's teaching you how to be an effective senior level SEO professional:
-
-<div class="i f5 ba ma0 pa3 b--seomba-red-accent br2">
-8 years into my career as a professional SEO, Tom's MBA has helped me discover new ways to pitch projects, present forecasts and slide decks, drive change in large organizations and think more strategically. <strong>There are a lot of SEO courses that will tell you how to write a title tag or conduct keyword research. This is not one of them. Tom operates on another level, and you should consider yourself lucky if you ever get the chance to pick his brain about any SEO- and strategy related topic</strong>.
-<div class="bt b--black-30 w-100 mt3 pt2 tr">Marco Schlauri - Founder, Digital Leverage</div>
-</div>
-
-## Sign up now
-
-So, to recap, sign up for beta #2 if:
-
-- You are free weekly at 12pm ET starting Wed, Sep 15h
-- You acknowledge this is a beta
-- You're willing to provide feedback throughout the course
-- You're ready to improve your executive presence
-
-**Price: $500**
-
-<div class=" bg-gray shadow-1 br3 f3 tc pa2 grow"><a class="w-100 db link white tc" href="#">Sold out!</a></div>
+Cohort #1: Tuesdays @ 9am ET for 5 weeks [sign up here](https://buy.stripe.com/dR63evfv42xNdmU8wy)
+Cohort #2: Thursdays @ 9am ET for 5 weeks [sign up here](https://buy.stripe.com/bIY16ngz8egv1EcaEH)
 
 <span class="f5 black-50 i">Checkout provided by Stripe.com</span>
-
-*Eventually this beta course will become a full self-paced course and learning hub and anyone who signs up for the beta will get full access to the final course when it launches*
