@@ -1,5 +1,5 @@
 ---
-title: "Client Management  - Course Beta #2"
+title: "Client Management  - Course Beta"
 layout: page
 ---
 
@@ -28,23 +28,26 @@ The beta course format is a live cohort of 10-15 people meeting for 90 mins / we
 
 ## Course Schedule
 
-I'm launching two beta cohorts to test the material, gain feedback .
+I'm launching two separate cohorts at once that will run in parallel. Please sign up for the one that suits your time best.
 
-Cohort #1: Tuesdays @ 9am ET for 5 weeks [sign up here](https://buy.stripe.com/dR63evfv42xNdmU8wy)
-Cohort #2: Thursdays @ 9am ET for 5 weeks [sign up here](https://buy.stripe.com/bIY16ngz8egv1EcaEH)
+Cohorts begin the week of 14th March:
 
 ![](/images/2022-client-mgmt-beta-schedule.png)
+
+- Cohort #1: Tuesdays @ 10am ET for 5 weeks [sign up here](https://buy.stripe.com/dR63evfv42xNdmU8wy)
+- Cohort #2: Thursdays @ 12pm ET for 5 weeks [sign up here](https://buy.stripe.com/bIY16ngz8egv1EcaEH)
+
+<span class="f5 black-50 i">Checkout provided by Stripe.com</span>
 
 ## This is a beta!
 
 Warning: This is a beta which means it's a work in progress! I'm confident the course will be valuable but it may also be slightly less raw and not as polished as the final course. Throughout the course I'll be sending surveys to gather feedback and I'd really love it if you can fill these out as we go.
 
-
 ## Sign Up Now
 
 Spots are limited and provided on a first come, first served basis. Sign up here:
 
-Cohort #1: Tuesdays @ 9am ET for 5 weeks [sign up here](https://buy.stripe.com/dR63evfv42xNdmU8wy)
-Cohort #2: Thursdays @ 9am ET for 5 weeks [sign up here](https://buy.stripe.com/bIY16ngz8egv1EcaEH)
+- Cohort #1: Tuesdays @ 9am ET for 5 weeks [sign up here](https://buy.stripe.com/dR63evfv42xNdmU8wy)
+- Cohort #2: Thursdays @ 9am ET for 5 weeks [sign up here](https://buy.stripe.com/bIY16ngz8egv1EcaEH)
 
 <span class="f5 black-50 i">Checkout provided by Stripe.com</span>
