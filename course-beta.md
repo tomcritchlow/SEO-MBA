@@ -34,8 +34,9 @@ Cohorts begin the week of 14th March:
 
 ![](/images/2022-client-mgmt-beta-schedule.png)
 
-- Cohort #1: Tuesdays @ 10am ET for 5 weeks [sign up here](https://buy.stripe.com/dR63evfv42xNdmU8wy)
-- Cohort #2: Thursdays @ 12pm ET for 5 weeks [sign up here](https://buy.stripe.com/bIY16ngz8egv1EcaEH)
+Cohort #1: Tuesdays @ 10am ET for 5 weeks <button href="https://buy.stripe.com/dR63evfv42xNdmU8wy" class="dib br3 ml2 pa2 f5 white bn shadow-3 pointer grow" style="background-color:#31930c">Sign Up Here</button>
+
+Cohort #2: Thursdays @ 12pm ET for 5 weeks <button href="https://buy.stripe.com/bIY16ngz8egv1EcaEH" class="dib br3 ml2 pa2 f5 white bn shadow-3 pointer grow" style="background-color:#cf534a">Sign Up Here</button>
 
 <span class="f5 black-50 i">Checkout provided by Stripe.com</span>
 
