@@ -3,9 +3,9 @@ title: "Client Management  - Course Beta"
 layout: page
 ---
 
-If you work at an SEO agency or as an independent consultant, managing clients is essential to the success of your work. This course isn't about *account management* or *project management* - it's about fundamentally working with clients to **get things done**.
+If you work at an SEO agency, managing clients is essential to the success of your work. This course isn't about *account management* or *project management* - it's about fundamentally working with clients to **get things done**.
 
-Good SEO is fundamentally consultative - you need to go beyond simply providing recommendations, to persuading and supporting clients in **implementing** our recommendations. That's why I'm building a course to deepen your client management skills
+Good SEO is fundamentally consultative - you need to go beyond simply providing recommendations, to persuading and supporting clients to get buy-in and **implement** our recommendations. That's why I'm building a course to deepen your client management skills
 
 This course is designed for mid-career agency SEO professionals (and freelancers) who need to get better at working with clients. The topics we'll cover:
 
@@ -28,7 +28,7 @@ The beta course format is a live cohort of 10-15 people meeting for 90 mins / we
 
 ## Course Schedule
 
-I'm launching two separate cohorts at once that will run in parallel. Please sign up for the one that suits your time best.
+<span class="red">I'm launching two separate cohorts at once that will run in parallel. Please sign up for the one that suits your time best.</span>
 
 Cohorts begin the week of 14th March:
 
