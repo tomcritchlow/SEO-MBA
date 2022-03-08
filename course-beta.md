@@ -3,6 +3,8 @@ title: "Client Management  - Course Beta"
 layout: page
 ---
 
+<em>Sold out! Unfortunately the beta cohorts are full now. If you didn't get a chance to enroll hang tight for the full course launching hopefully in the next few months!</em>
+
 If you work at an SEO agency, managing clients is essential to the success of your work. This course isn't about *account management* or *project management* - it's about fundamentally working with clients to **get things done**.
 
 Good SEO is fundamentally consultative - you need to go beyond simply providing recommendations, to persuading and supporting clients to get buy-in and **implement** our recommendations. That's why I'm building a course to deepen your client management skills
@@ -34,9 +36,9 @@ Cohorts begin the week of 14th March:
 
 ![](/images/2022-client-mgmt-beta-schedule.png)
 
-Cohort #1: Tuesdays @ 10am ET for 5 weeks <button class="dib br3 ml2 pa2 f5 bn shadow-3 pointer grow" style="background-color:#31930c"><a href="https://buy.stripe.com/dR63evfv42xNdmU8wy" class="link" style="color:white">Join Cohort</a></button>
+Cohort #1: Tuesdays @ 10am ET for 5 weeks. <em>Sold out!</em>
 
-Cohort #2: Thursdays @ 12pm ET for 5 weeks <button class="dib br3 ml2 pa2 f5 bn shadow-3 pointer grow" style="background-color:#cf534a"><a href="https://buy.stripe.com/bIY16ngz8egv1EcaEH" class="link" style="color:white">Join Cohort</a></button>
+Cohort #2: Thursdays @ 12pm ET for 5 weeks <em>Sold out!</em>
 
 <span class="f5 black-50 i">Checkout provided by Stripe.com</span>
 
@@ -48,8 +50,8 @@ Warning: This is a beta which means it's a work in progress! I'm confident the c
 
 Both beta cohorts are priced at $350. Spots are limited and provided on a first come, first served basis. Sign up here:
 
-Cohort #1: Tuesdays @ 10am ET for 5 weeks <button class="dib br3 ml2 pa2 f5 bn shadow-3 pointer grow" style="background-color:#31930c"><a href="https://buy.stripe.com/dR63evfv42xNdmU8wy" class="link" style="color:white">Join Cohort</a></button>
+Cohort #1: Tuesdays @ 10am ET for 5 weeks <em>Sold out!</em>
 
-Cohort #2: Thursdays @ 12pm ET for 5 weeks <button class="dib br3 ml2 pa2 f5 bn shadow-3 pointer grow" style="background-color:#cf534a"><a href="https://buy.stripe.com/bIY16ngz8egv1EcaEH" class="link" style="color:white">Join Cohort</a></button>
+Cohort #2: Thursdays @ 12pm ET for 5 weeks <em>Sold out!</em>
 
 <span class="f5 black-50 i">Checkout provided by Stripe.com</span>
