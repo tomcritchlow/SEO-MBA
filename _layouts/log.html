@@ -20,7 +20,7 @@ Subscribe via RSS
 
 {% for post in site.posts %}
 
-<div class="flex w-100" id="{{forloop.index}}">
+<div class="flex w-100 bb cf b--black-20" id="{{forloop.index}}">
   <div class="w-20-l black-60 ttu f5 pv3"><a href="#{{forloop.index}}" class="link red pr2">#</a>{{ post.date | date: "%B %-d, %Y" }}</div>
   
   <div class="w-70-l ml4">
@@ -28,6 +28,7 @@ Subscribe via RSS
     {{post.content}}
   </div>
 </div>
+
 
 {% endfor %}
 
