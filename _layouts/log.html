@@ -6,25 +6,25 @@
 
 <div class="center mw8 center pv4-l ph0-l ph3">
 
-<h1>The SEO MBA Log</h1>
-<h2>Telling the story of building the SEO MBA, by Tom Critchlow</h1>
+<h1 class="f1">The SEO MBA Log</h1>
+<div class="f2">Telling the story of building the SEO MBA, by Tom Critchlow</div>
 
 Subscribe to the newsletter
 Subscribe via RSS
 
 </div>
 
-<div class="w-100 bg-white bt b--black-20">
+<div class="w-100 bg-white bt b--black-10">
 
 <div class="center mw8 pl4-l pv4-l ph0-l ph3">
 
 {% for post in site.posts %}
 
-<div class="flex w-100 bb b--black-20" id="{{forloop.index}}">
+<div class="flex w-100 bb b--black-10" id="{{forloop.index}}">
   <div class="w-20-l black-60 ttu f5 pv3"><a href="#{{forloop.index}}" class="link red pr2">#</a>{{ post.date | date: "%B %-d, %Y" }}</div>
   
   <div class="w-70-l ml4">
-    {% if post.title %}<h3>{{post.title}}</h3>{% endif %}
+    {% if post.title %}<h3 class="mv3">{{post.title}}</h3>{% endif %}
     {{post.content}}
   </div>
 </div>
