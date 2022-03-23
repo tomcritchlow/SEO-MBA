@@ -24,7 +24,7 @@
 <div class="flex flex-wrap bb b--black-10 pv4" id="{{ post.date | date: "%Y-%m-%d" }}">
   <div class="w-20-l w-100 black-60 ttu f5 pv3"><a href="#{{ post.date | date: "%Y-%m-%d" }}" class="link red pr2">#</a>{{ post.date | date: "%B %-d, %Y" }}</div>
   
-  <div class="w-70-l w-100 ml4">
+  <div class="w-70-l w-100 ml4-l">
     {% if post.title %}<h3 class="mv3">{{post.title}}</h3>{% endif %}
     {{post.content}}
   </div>
