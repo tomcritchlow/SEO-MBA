@@ -4,7 +4,7 @@
 
 {% include nav.html %}
 
-<div class="center mw8 center pv4-l flex-l ph0-l ph3">
+<div class="center mw8 center pv4-l ph0-l ph3">
 
 <h1>The SEO MBA Log</h1>
 <h2>Telling the story of building the SEO MBA, by Tom Critchlow</h1>
@@ -20,9 +20,9 @@ Subscribe via RSS
 
 {% for post in site.posts %}
 
-<div class="flex">
+<div class="flex w-100">
   <div class="w-20-l">{{ post.date | date: "%B %-d, %Y" }}</div>
-  <div class="w-80-l">{{post.content}}</div>
+  <div class="w-70-l ml4">{{post.content}}</div>
 
 </div>
 
