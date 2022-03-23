@@ -1,0 +1,27 @@
+{% include head.html %}
+
+<body class="w-100 h-100 db bg-seomba avenir">
+
+{% include nav.html %}
+
+<h1>The SEO MBA Log</h1>
+<h2>Telling the story of building the SEO MBA, by Tom Critchlow</h1>
+
+Subscribe to the newsletter
+Subscribe via RSS
+
+<div class="w-100 bg-white bt b--black-20">
+
+{% for post in site.posts %}
+
+<div class="flex">
+  <div class="w-20-l">{{ post.date | date: "%B %-d, %Y" }}</div>
+  <div class="w-80-l">{{post.content}}</div>
+
+</div>
+
+{% endfor %}
+
+</div>  
+
+{% include footer.html %}
