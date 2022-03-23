@@ -17,12 +17,12 @@
 
 <div class="center mw8 pl4-l pv4-l ph0-l ph3">
 
-<div class="f6 black-50 fr" id="filterlinks">Filter by: <a href="#">subscribers</a> | <a href="#">courses</a> | <a href="#">posts</a></div>
+<div class="f6 black-50 w-100 tr" id="filterlinks">Filter by: <a href="#">subscribers</a> | <a href="#">courses</a> | <a href="#">posts</a></div>
 
 {% for post in site.posts %}
 
 <div class="flex flex-wrap bb b--black-10 pv4" id="{{ post.date | date: "%Y-%m-%d" }}">
-  <div class="w-20-l w-100 black-60 ttu f5 pv3"><a href="#{{ post.date | date: "%Y-%m-%d" }}" class="link red pr2">#</a>{{ post.date | date: "%B %-d, %Y" }}</div>
+  <div class="w-20-l w-100 black-60 ttu f6 pv3"><a href="#{{ post.date | date: "%Y-%m-%d" }}" class="link red pr2">#</a>{{ post.date | date: "%B %-d, %Y" }}</div>
   
   <div class="w-70-l w-100 ml4-l">
     {% if post.title %}<h3 class="mv3">{{post.title}}</h3>{% endif %}
