@@ -21,11 +21,11 @@
 
 {% for post in site.posts %}
 
-<div class="flex flex-wrap bb b--black-10 pv4" id="{{ post.date | date: "%Y-%m-%d" }}">
+<div class="flex flex-wrap bb b--black-10 pv4 lh-copy" id="{{ post.date | date: "%Y-%m-%d" }}">
   <div class="w-20-l w-100 black-60 ttu f6 pv3"><a href="#{{ post.date | date: "%Y-%m-%d" }}" class="link red pr2">#</a>{{ post.date | date: "%B %-d, %Y" }}</div>
   
   <div class="w-70-l w-100 ml4-l">
-    {% if post.title %}<h3 class="mv3">{{post.title}}</h3>{% endif %}
+    {% if post.title %}<h3 class="mv2">{{post.title}}</h3>{% endif %}
     {{post.content}}
   </div>
 </div>
