@@ -4,7 +4,7 @@
 
 {% include nav.html %}
 
-<div class="center mw8 center pv4-l pv2 ph0-l ph3 tc-l">
+<div class="center mw8 center pv5-l pv4 ph0-l ph3 tc-l">
 
 <h1 class="f1-l f2 pv0 mb1 mt3">The SEO MBA Log</h1>
 <div class="f3 mb3">The story of building the SEO MBA</div>
@@ -22,7 +22,7 @@
 {% for post in site.posts %}
 
 <div class="flex flex-wrap bb b--black-10 pv4 lh-copy" id="{{ post.date | date: "%Y-%m-%d" }}">
-  <div class="w-20-l w-100 black-60 ttu f6 pv3"><a href="#{{ post.date | date: "%Y-%m-%d" }}" class="link red pr2">#</a>{{ post.date | date: "%B %-d, %Y" }}</div>
+  <div class="w-20-l w-100 black-40 ttu f6 pv3-l pv1"><a href="#{{ post.date | date: "%Y-%m-%d" }}" class="link red pr2">#</a>{{ post.date | date: "%B %-d, %Y" }}</div>
   
   <div class="w-70-l w-100 ml4-l">
     {% if post.title %}<h3 class="mv2">{{post.title}}</h3>{% endif %}
