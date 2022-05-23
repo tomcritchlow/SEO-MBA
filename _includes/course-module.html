@@ -1,0 +1,48 @@
+<div class="mw8 w-90 w-two-thirds-l pa4 ba b--black-20 br2 bg-white tl center">
+    <div class="seomba-red-accent f6 pt0 mb2">MODULE {{ include.number }}</div>
+    <h3 class="f2 mt0 mb4">{{include.name}}</h3>
+
+
+    <div class="avenir f3 pt0 mb4">
+      {{include.description}}
+    </div>
+
+    <div class="flex flex-wrap avenir f4 mb4">
+      <div class="w-50-l">
+        <div class="cormorant b f3 mb2">{{include.first-title}}</div>
+        {{include.first-description}}
+      </div>
+      <div class="w-50-l">
+        <div class="cormorant b f3 mb2">{{include.second-title}}</div>
+        {{include.second-description}}
+      </div>
+
+    </div>
+
+    <div class="flex flex-wrap">
+      <div class="flex items-center f7 pr4">
+        <div><img class="h1 h2-l pr2" src="/images/icon-video.png" /></div>
+        <div>{{include.videomins}} MINS VIDEO</div>
+      </div>
+      <div class="flex items-center f7 pr4">
+        <div><img class="h1 h2-l pr2" src="/images/icon-subtitles.png" /></div>
+        <div>CC SUBTITLES (EN)</div>
+      </div>
+      <div class="flex items-center f7 pr4">
+        <div><img class="h1 h2-l pr2" src="/images/icon-document.png" /></div>
+        <div>HOMEWORK ASSIGNMENT</div>
+      </div>
+      {% if include.spreadsheet %}
+      <div class="flex items-center f7">
+        <div><img class="h1 h2-l pr2" src="/images/icon-google-sheets.png" /></div>
+        <div class="seomba-red-accent">BONUS: SEO BUSINESS <br>MODEL SPREADSHEET TEMPLATE</div>
+      </div>
+      {% endif %}
+      {% if include.presentations %}
+      <div class="flex items-center f7">
+        <div><img class="h1 h2-l pr2" src="/images/icon-google-slides.png" /></div>
+        <div class="seomba-red-accent">BONUS: FULL SEO <br>STRATEGY PRESENTATION</div>
+      </div>
+      {% endif %}
+    </div>
+  </div>
