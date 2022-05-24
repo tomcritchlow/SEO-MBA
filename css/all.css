@@ -6,7 +6,7 @@ body {
   }
   
   h1, h2, h3{
-    font-family:"Cormorant";
+    font-family:"Cormorant Garamond";
   }
   
   .lato{
@@ -14,6 +14,10 @@ body {
   }
 
   .cormorant{
+    font-family:"Cormorant Garamond";
+  }
+
+  .cormorant-number{
     font-family:"Cormorant";
   }
 
