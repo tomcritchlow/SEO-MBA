@@ -12,7 +12,7 @@ og: https://seomba.com/images/course-og-full.png
 
     {% include nav.html color="dark" %}
 
-
+    <!--Sticky Nav #1
     <stickynavtest class="pa2 br2 br--bottom bg-seomba-red">
       <a href="#pricing" class="link cormorant seomba-light f3">Enroll Today</a>
     </stickynavtest>
@@ -32,6 +32,34 @@ og: https://seomba.com/images/course-og-full.png
         box-shadow: 2px 2px 8px 0 rgb(0 0 0 / 20%);
     }
     </style>
+    -->
+
+    <!--Sticky Nav #-->
+    <stickynavtest class="pa2 br2 br--bottom bg-seomba w-100 center tc">      
+
+        <a class="f6 f5-l link bg-animate black-80 hover-bg-lightest-blue dib pa3 ph4-l" href="/">Home</a>
+        <a class="f6 f5-l link bg-animate black-80 hover-bg-light-green dib pa3 ph4-l" href="/portfolio">Portfolio</a>
+        <a class="f6 f5-l link bg-animate black-80 hover-bg-light-blue dib pa3 ph4-l" href="/shop">Shop</a>
+        <a class="f6 f5-l link bg-animate black-80 hover-bg-light-pink dib pa3 ph4-l" href="/about">About</a>
+        <a class="f6 f5-l link bg-animate black-80 hover-bg-light-yellow dib pa3 ph4-l bg-seomba-red" href="/contact">Enroll Today</a>
+
+    </stickynavtest>
+
+    <style>
+    stickynavtest {
+        position: fixed;
+        top: 0;
+        transform: translateY(-100%);
+        transition: 0.2s transform cubic-bezier(.3,.73,.3,.74);
+        z-index:1;
+    }
+
+    body.down stickynavtest {
+        transform: translateY(0);
+        box-shadow: 2px 2px 8px 0 rgb(0 0 0 / 20%);
+    }
+    </style>
+    
 
     <script>
         $(document).ready(function() {
