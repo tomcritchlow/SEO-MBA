@@ -435,7 +435,10 @@ og: https://seomba.com/images/course-og-full.png
 
 <script>
   const seatsinput = document.getElementById("seatsinput");
-  seatsinput.addEventListener('change', updatePrice);
+  //seatsinput.addEventListener('change', updatePrice);
+  seatsinput.addEventListener('input', function (evt) {
+    alert(this.value);
+  });
 
   function updatePrice(e){
     alert(e.target.value);
