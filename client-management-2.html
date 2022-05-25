@@ -391,6 +391,17 @@ og: https://seomba.com/images/course-og-full.png
   const agencybuybutton = document.getElementById("agencybuybutton");
   //seatsinput.addEventListener('change', updatePrice);
   seatsinput.addEventListener('input', function (evt) {
+    switch(this.value){
+      case 0:
+        break;
+      case 1:
+        agencybuybutton.innerHTML = $5,000;
+        break;
+      default:
+        agencybuybutton.innerHTML = "Get in touch";
+
+    }
+    
     if(this.value > 0){
       agencybuybutton.innerHTML = this.value;
     }
