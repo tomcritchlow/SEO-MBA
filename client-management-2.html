@@ -423,7 +423,7 @@ og: https://seomba.com/images/course-og-full.png
       <div class="w-40 flex items-center">
         <div class="">
           <div class="">Seats</div>
-          <input class="b--seomba-red-accent avenir f3 pa2" type="number" id="quantity" name="quantity" min="1" max="10" value="5">
+          <input id="seatsinput" class="b--seomba-red-accent avenir f3 pa2" type="number" id="quantity" name="quantity" min="1" max="10" value="5">
         </div>
         <a class="pa2 ph4 seomba-light link bg-seomba-red br2 f4" href="#" >$6,000</a>
       </div>
@@ -432,7 +432,18 @@ og: https://seomba.com/images/course-og-full.png
   </div>
 
 </div>
+
+<script>
+  const seatsinput = document.getElementById("seatsinput");
+  seatsinput.addEventListener('change', updatePrice);
+
+  function updatePrice(e){
+    alert(e.target.value);
+  }
+</script>
 <!-- End pricing table-->
+
+
 
 
 
