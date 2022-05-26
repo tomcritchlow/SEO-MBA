@@ -139,7 +139,7 @@ details > summary::-webkit-details-marker {
   -moz-appearance: none;
   appearance: none;
   width: 62px;
-  height: 32px;
+  height: 24px;
   display: inline-block;
   position: relative;
   border-radius: 50px;
@@ -157,8 +157,8 @@ details > summary::-webkit-details-marker {
   display: block;
   position: absolute;
   z-index: 2;
-  width: 28px;
-  height: 28px;
+  width: 20px;
+  height: 20px;
   background: #fff;
   left: 2px;
   top: 2px;
@@ -176,7 +176,7 @@ details > summary::-webkit-details-marker {
 }
 
 .toggle:checked {
-  background-color: #4CD964;
+  background-color: #F9F5F1;
 }
 
 .toggle:checked:before {
