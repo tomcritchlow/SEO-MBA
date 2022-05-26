@@ -335,9 +335,11 @@ og: https://seomba.com/images/course-og-full.png
   <h2 class="seomba-light w-100 center tc f2 mb0">Start the Course Today</h2>
   <h3 class="seomba-light w-100 avenir tc f3 mt2 fw4 pb4">Instant access, lifetime updates</h3>
 
+<div class="" id="agencytoggle">Individual / Agency</div>
+
 <div class="flex flex-wrap w-100 justify-center mw9">
 
-<div class="w-25-l w-100 ba b--seomba-red-accent br2 br--left-l bg-seomba pa4 mv4 ">
+<div class="w-25-l w-100 ba b--seomba-red-accent br2 br--left-l bg-seomba pa4 mv4 " id="essentialpricing">
   <h3 class="f2 mt0">Essentials</h3>
   <p class="i tl">The full Art of Client Management course.</p>
   <p class="f2 avenir fw4 mv3">$500</p>
@@ -354,7 +356,7 @@ og: https://seomba.com/images/course-og-full.png
   </p>
 </div>
 
-<div class="w-25-l w-100 ba b--seomba-red-accent br2 bg-seomba pa4 pt4 mr5-l">
+<div class="w-25-l w-100 ba b--seomba-red-accent br2 bg-seomba pa4 pt4 mr5-l" id="professionalpricing">
   <h3 class="pt3 f2 mt0">Professional</h3>
   <p class="i tl">Everything in Essentials, plus email feedback on your assignments and access to the weekly office hours.</p>
   <p class="f2 avenir fw4 mv3">$700</p>
@@ -373,7 +375,7 @@ og: https://seomba.com/images/course-og-full.png
   </p>
 </div>
 
-<div class="w-25-l w-100 ba b--seomba-red-accent br2 bg-seomba pa4 mv4 ">
+<div class="w-25-l w-100 ba b--seomba-red-accent br2 bg-seomba pa4 mv4 " id="agencypricing">
   <h3 class="f2 mt0">Agency Plans</h3>
   <p class="i tl">Purchase the Executive Presence course and The Art of Client Management together.</p>
   <div class="flex flex-wrap pt3 justify-center">
@@ -448,7 +450,7 @@ og: https://seomba.com/images/course-og-full.png
 <script>
   const seatsinput = document.getElementById("seatsinput");
   const agencybuybutton = document.getElementById("agencybuybutton");
-  //seatsinput.addEventListener('change', updatePrice);
+
   seatsinput.addEventListener('input', function (evt) {
     switch(parseInt(this.value)){
       case 0:
@@ -462,9 +464,18 @@ og: https://seomba.com/images/course-og-full.png
     };
   });
 
-  function updatePrice(e){
-    alert(e.target.value);
-  }
+  const agencytoggle = document.getElementById("agencytoggle");
+  const essentialpricing = document.getElementById("essentialpricing");
+  const professionalpricing = document.getElementById("professionalpricing");
+  const agencypricing = document.getElementById("agencypricing");
+
+  seatsinput.addEventListener('click', function (evt) {
+    essentialpricing.toggle();
+    professionalpricing.toggle();
+    agencypricing.toggle();
+  });
+
+
 </script>
 <!-- End pricing table-->
 
