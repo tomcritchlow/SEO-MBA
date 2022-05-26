@@ -177,6 +177,8 @@ details > summary::-webkit-details-marker {
 
 .toggle:checked {
   background-color: #F9F5F1;
+  color:#293D52;
+    
 }
 
 .toggle:checked:before {
