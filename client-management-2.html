@@ -35,11 +35,11 @@ og: https://seomba.com/images/course-og-full.png
     -->
 
     <!--Sticky Nav #-->
-    <stickynavtest class="br2 br--bottom bg-seomba-dark w-100 center i tc shadow-1">      
+    <stickynavtest class="br2 br--bottom bg-seomba-dark w-100 center tc shadow-1">      
 
         <a class="f6 f5-l link  seomba-light  dib pa2 ph4-l" href="/">Who it's for</a>
-        <a class="f6 f5-l link seomba-light  dib pa2 ph4-l" href="/portfolio">Testimonials</a>
         <a class="f6 f5-l link  seomba-light  dib pa2 ph4-l" href="/shop">Course Contents</a>
+        <a class="f6 f5-l link seomba-light  dib pa2 ph4-l" href="/portfolio">Testimonials</a>
         <a class="f6 f5-l link  seomba-light  dib pa2 ph4-l" href="/about">About Tom Critchlow</a>
         <a class="f6 f5-l link  seomba-light  dib pa2 mt1 br2 br--bottom ph4-l bg-seomba-red" href="/contact">Enroll Today</a>
 
@@ -364,7 +364,7 @@ og: https://seomba.com/images/course-og-full.png
   </p>
 </div>
 
-<div class="w-30-l w-100 ba b--seomba-red-accent br2 bg-seomba pa4 pt4">
+<div class="w-25-l w-100 ba b--seomba-red-accent br2 bg-seomba pa4 pt4 mr5-l">
   <h3 class="pt3 f2 mt0">Professional</h3>
   <p class="i tl">Everything in Essentials, plus email feedback on your assignments and access to the weekly office hours.</p>
   <p class="f2 avenir fw4 mv3">$700</p>
@@ -384,10 +384,28 @@ og: https://seomba.com/images/course-og-full.png
 </div>
 
 <div class="w-25-l w-100 ba b--seomba-red-accent br2 br--right bg-seomba pa4 mv4 ">
-  <h3 class="f2 mt0">Course Bundle</h3>
+  <h3 class="f2 mt0">Agency Plans</h3>
   <p class="i tl">Purchase the Executive Presence course and The Art of Client Management together.</p>
-  <p class="f2 avenir fw4 mv3">$1,200</p>
-  <a class="pa2 ph4 seomba-light link bg-seomba-red br2 f4" href="mailto:tom@seomba.com" onclick="gtag('event', 'email', {'event_category': 'email_contact', 'event_label': 'custom'});">Buy Now</a>
+  <div class="flex flex-wrap">
+    <div class="relative pr4">
+      <div class="absolute top--1 f7">seats</div>
+      <select id="seatsinput" class="b--seomba-red-accent ba br2 pa1 f4">
+        <option value="1">1</option>
+        <option value="2">2</option>
+        <option value="3">3</option>
+        <option value="4">4</option>
+        <option value="5">5</option>
+        <option value="6">6</option>
+        <option value="7">7</option>
+        <option value="8">8</option>
+        <option value="9">9</option>
+        <option value="10">10</option>
+        <option value="Custom">> 10</option>
+      </select>
+    </div>
+    <a id="agencybuybutton" class="pa2 ph4 seomba-light link bg-seomba-red br2 f4" href="mailto:tom@seomba.com" onclick="gtag('event', 'email', {'event_category': 'email_contact', 'event_label': 'custom'});">Buy Now</a>
+  </div>
+  
   <p class="avenir tl pt4">
     What's included:
     <ul class="tl pl3 mb0">
@@ -419,22 +437,7 @@ og: https://seomba.com/images/course-og-full.png
 
       </div>
       <div class="w-100 w-40-l flex items-center justify-center">
-        <div class="relative pr4">
-          <div class="absolute top--1 f7">seats</div>
-          <select id="seatsinput" class="b--seomba-red-accent ba br2 pa1 f4">
-            <option value="1">1</option>
-            <option value="2">2</option>
-            <option value="3">3</option>
-            <option value="4">4</option>
-            <option value="5">5</option>
-            <option value="6">6</option>
-            <option value="7">7</option>
-            <option value="8">8</option>
-            <option value="9">9</option>
-            <option value="10">10</option>
-            <option value="Custom">> 10</option>
-          </select>
-        </div>
+       
         <a id="agencybuybutton" class="pa2 ph4 seomba-light link bg-seomba-red br2 f4" href="#" >$6,000</a>
       </div>
     </div>
