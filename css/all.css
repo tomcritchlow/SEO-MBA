@@ -163,7 +163,7 @@ details > summary::-webkit-details-marker {
   left: 2px;
   top: 2px;
   border-radius: 50%;
-  font: 10px/24px Helvetica;
+  font: 10px/22px Helvetica;
   text-transform: uppercase;
   font-weight: bold;
   text-indent: -28px;
@@ -177,10 +177,11 @@ details > summary::-webkit-details-marker {
 
 .toggle:checked {
   background-color: #F9F5F1;
-  color:#293D52;
+  
     
 }
 
 .toggle:checked:before {
   left: 32px;
+  color:#293D52;
 }
