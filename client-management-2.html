@@ -469,10 +469,10 @@ og: https://seomba.com/images/course-og-full.png
   const professionalpricing = document.getElementById("professionalpricing");
   const agencypricing = document.getElementById("agencypricing");
 
-  seatsinput.addEventListener('click', function (evt) {
-    essentialpricing.toggle();
-    professionalpricing.toggle();
-    agencypricing.toggle();
+  agencytoggle.addEventListener('click', function (evt) {
+    $("#essentialpricing").toggle();
+    $("#professionalpricing").toggle();
+    $("#agencypricing").toggle();
   });
 
 
