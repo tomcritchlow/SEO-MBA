@@ -100,6 +100,7 @@ og: https://seomba.com/images/course-og-full.png
 
       const mobilenav = document.getElementById("mobilenav");
       mobilenav.addEventListener('click', function (evt) {
+        event.preventDefault();
         $("#mobilenavhidden").toggle();
       });
 
