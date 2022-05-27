@@ -91,17 +91,25 @@ og: https://seomba.com/images/course-og-full.png
       const tombottom = $("#tom").offsetTop + $("#tom").offsetHeight;
 
     window.addEventListener("scroll", function() {
-        var scroll = window.scrollY;
-        switch(scroll) {
-        case (scroll > introtop && scroll < introbottom):
+      if(winow.scrollY > introtop && window.scrollY < introbottom){
+        console.log("In intro")
+      }
+      if(winow.scrollY > tomtop && window.scrollY < tombottom){
+        console.log("In tom")
+      }      
+      /*
+      var scrollpos = window.scrollY;
+        switch(true) {
+        case (scrollpos > introtop && scrollpos < introbottom):
           console.log("in intro block!")
           break;
-        case (scroll > tomtop && scroll < tombottom):
+        case (scrollpos > tomtop && scrollpos < tombottom):
           console.log("in tom block!")
           break;
         default:
           // code block
       }
+      */
 
     });
       
