@@ -85,32 +85,28 @@ og: https://seomba.com/images/course-og-full.png
       });
 
      
-      const introtop = $("#intro").offsetTop;
-      const introbottom = $("#intro").offsetTop + $("#intro").offsetHeight;
-      const tomtop = $("#tom").offsetTop;
-      const tombottom = $("#tom").offsetTop + $("#tom").offsetHeight;
 
+      function isVisibile(id){
+        scrollpoint = window.scrollY;
+        elementtop = document.getElementById(id).offsetTop;
+        elementbottom = elementtop + document.getElementById(id).offsetHeight;
+        if(scrollpoint > elementtop && scrollpoint < elementbottom){
+          return true;
+        }else{
+          return false;
+        }
+      }
+
+    const mobilenavlabel = document.getElementById("mobilenavlabel");
     window.addEventListener("scroll", function() {
-      if(window.scrollY > introtop && window.scrollY < introbottom){
-        console.log("In intro")
-      }
-      if(window.scrollY > tomtop && window.scrollY < tombottom){
-        console.log("In tom")
-      }      
-      /*
-      var scrollpos = window.scrollY;
-        switch(true) {
-        case (scrollpos > introtop && scrollpos < introbottom):
-          console.log("in intro block!")
+      switch (true) {
+        case (isVisibile("intro")):
+          mobilenavlabel.innerHTML = "intro"
           break;
-        case (scrollpos > tomtop && scrollpos < tombottom):
-          console.log("in tom block!")
+        case (isVisibile("tom")):
+          mobilenavlabel.innerHTML = "tom"
           break;
-        default:
-          // code block
       }
-      */
-
     });
       
     </script>
