@@ -101,7 +101,7 @@ og: https://seomba.com/images/course-og-full.png
         $("#desktoppagenav a").each(function(){
           $(this).removeClass("bb");
         });
-        $("#"+id).addClass(bb);
+        $("#"+id).addClass("bb");
       }
 
     const mobilenavlabel = document.getElementById("mobilenavlabel");
@@ -109,7 +109,7 @@ og: https://seomba.com/images/course-og-full.png
       switch (true) {
         case (isVisibile("intro")):
           mobilenavlabel.innerHTML = "Who it's for";
-          updatenav("intro");
+          updateNav("intro");
           break;
         case (isVisibile("tom")):
           mobilenavlabel.innerHTML = "About Tom Critchlow"
