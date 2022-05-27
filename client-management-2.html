@@ -85,13 +85,25 @@ og: https://seomba.com/images/course-og-full.png
       });
 
      
+      const introtop = $("#intro").offsetTop;
+      const introbottom = $("#intro").offsetTop + $("#intro").offsetHeight;
+      const tomtop = $("#tom").offsetTop;
+      const tombottom = $("#tom").offsetTop + $("#tom").offsetHeight;
 
-      window.addEventListener("scroll", function() {
-        var elementTarget = document.getElementById("tom");
-        if ((window.scrollY > elementTarget.offsetTop) && (window.scrollY < (elementTarget.offsetTop + elementTarget.offsetHeight)) ) {
-            console("You've scrolled into tom div");
-        }
-      });
+    window.addEventListener("scroll", function() {
+        var scroll = window.scrollY;
+        switch(scroll) {
+        case (scroll > introtop && scroll < introbottom):
+          console.log("in intro block!")
+          break;
+        case (scroll > tomtop && scroll < tombottom):
+          console.log("in tom block!")
+          break;
+        default:
+          // code block
+      }
+
+    });
       
     </script>
       
