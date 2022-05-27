@@ -91,10 +91,10 @@ og: https://seomba.com/images/course-og-full.png
       const tombottom = $("#tom").offsetTop + $("#tom").offsetHeight;
 
     window.addEventListener("scroll", function() {
-      if(winow.scrollY > introtop && window.scrollY < introbottom){
+      if(window.scrollY > introtop && window.scrollY < introbottom){
         console.log("In intro")
       }
-      if(winow.scrollY > tomtop && window.scrollY < tombottom){
+      if(window.scrollY > tomtop && window.scrollY < tombottom){
         console.log("In tom")
       }      
       /*
