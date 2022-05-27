@@ -88,8 +88,8 @@ og: https://seomba.com/images/course-og-full.png
 
       window.addEventListener("scroll", function() {
         var elementTarget = document.getElementById("tom");
-        if (window.scrollY > elementTarget.offsetTop) {
-            alert("You've scrolled into the second div");
+        if ((window.scrollY > elementTarget.offsetTop) && (window.scrollY < (elementTarget.offsetTop + elementTarget.offsetHeight)) ) {
+            console("You've scrolled into tom div");
         }
       });
       
