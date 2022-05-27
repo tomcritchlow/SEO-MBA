@@ -39,12 +39,12 @@ og: https://seomba.com/images/course-og-full.png
       </div>
 
       <!--Desktop in-page nav-->
-      <div class="dn db-l">
-        <a class="f6 f5-l link  seomba-light  dib pa2 ph4-l" href="#intro">Who it's for</a>
-        <a class="f6 f5-l link  seomba-light  dib pa2 ph4-l" href="#contents">Course Contents</a>
-        <a class="f6 f5-l link seomba-light  dib pa2 ph4-l" href="#testimonials">Testimonials</a>
-        <a class="f6 f5-l link  seomba-light  dib pa2 ph4-l" href="#tom">About Tom Critchlow</a>
-        <a class="f6 f5-l link  seomba-light  dib pa2 ph4-l" href="#faq">FAQ</a>
+      <div class="dn db-l" id="desktoppagenav">
+        <a class="f6 f5-l link  seomba-light  dib pa2 ph4-l" href="#intro" id="introlink">Who it's for</a>
+        <a class="f6 f5-l link  seomba-light  dib pa2 ph4-l" href="#contents" id="courselink">Course Contents</a>
+        <a class="f6 f5-l link seomba-light  dib pa2 ph4-l" href="#testimonials" id="testimonialslink">Testimonials</a>
+        <a class="f6 f5-l link  seomba-light  dib pa2 ph4-l" href="#tom" id="tomlink">About Tom Critchlow</a>
+        <a class="f6 f5-l link  seomba-light  dib pa2 ph4-l" href="#faq" id="faqlink">FAQ</a>
         <a class="f6 f5-l link  seomba-light  dib pa2 mb1 br2 br--bottom ph4-l bg-seomba-red" href="#pricing">Enroll Today</a>
       </div>
 
@@ -95,16 +95,24 @@ og: https://seomba.com/images/course-og-full.png
         }else{
           return false;
         }
+      };
+
+      function updateNav(id){
+        $("#desktoppagenav a").each(function(){
+          $(this).removeClass("bb");
+        });
+        $("#"+id).addClass(bb);
       }
 
     const mobilenavlabel = document.getElementById("mobilenavlabel");
     window.addEventListener("scroll", function() {
       switch (true) {
         case (isVisibile("intro")):
-          mobilenavlabel.innerHTML = "intro"
+          mobilenavlabel.innerHTML = "Who it's for";
+          updatenav("intro");
           break;
         case (isVisibile("tom")):
-          mobilenavlabel.innerHTML = "tom"
+          mobilenavlabel.innerHTML = "About Tom Critchlow"
           break;
       }
     });
