@@ -518,7 +518,7 @@ og: https://seomba.com/images/aocm-og.png
         <option value="Custom">> 10</option>
       </select>
     </div>
-    <div class="f2 avenir fw4 mv3" id="agencyprice">$5,000 <s class="red f4 v-top"><span class="seomba">$2,975</span></s></div>
+    <div class="f2 avenir fw4 mv3" id="agencyprice">$3,500 <s class="red f4 v-top"><span class="seomba" id="highprice">$2,975</span></s></div>
   </div>
   <a id="agencybuybutton" class="pa2 ph4 seomba-light link bg-seomba-red br2 f4" href="mailto:tom@seomba.com" onclick="gtag('event', 'email', {'event_category': 'email_contact', 'event_label': 'custom'});">Buy Now</a>
   
@@ -547,22 +547,51 @@ og: https://seomba.com/images/aocm-og.png
   const seatsinput = document.getElementById("seatsinput");
   const agencybuybutton = document.getElementById("agencybuybutton");
   const agencyprice = document.getElementById("agencyprice");
+  const highprice = document.getElementById("highprice");
 
   seatsinput.addEventListener('input', function (evt) {
     switch(parseInt(this.value)){
       case 0:
         break;
+      case 1:
+        agencyprice.innerHTML = "$700"; 
+        highprice.innerHTML = ""; 
+        break;        
       case 2:
         agencyprice.innerHTML = "$1,400";
+        highprice.innerHTML = ""; 
         break;
       case 3:
         agencyprice.innerHTML = "$1,890";
-        break;                
-      case 5:
-        agencyprice.innerHTML = "$3,500";
+        highprice.innerHTML = "$2,100";
         break;
-      case 10:
+      case 4:
+        agencyprice.innerHTML = "$2,520";
+        highprice.innerHTML = "$2,800";
+        break;                        
+      case 5:
+        agencyprice.innerHTML = "$2,975";
+        highprice.innerHTML = "$3,500";
+        break;
+      case 6:
+        agencyprice.innerHTML = "$3,570";
+        highprice.innerHTML = "$4,200";
+        break;
+      case 7:
+        agencyprice.innerHTML = "$4,165";
+        highprice.innerHTML = "$4,900";
+        break;
+      case 8:
+        agencyprice.innerHTML = "$4,760";
+        highprice.innerHTML = "$5,600";
+        break;
+      case 9:
         agencyprice.innerHTML = "$5,355";
+        highprice.innerHTML = "$6,300";
+        break;                                
+      case 10:
+        agencyprice.innerHTML = "$5,600";
+        highprice.innerHTML = "$7,000";
         break;        
       default:
         agencyprice.innerHTML = "Custom";
