@@ -501,7 +501,7 @@ og: https://seomba.com/images/aocm-og.png
 <div class="w-25-l w-100 ba b--seomba-red-accent br2 bg-seomba pa4 mv4 ml5-l" id="agencypricing">
   <h3 class="f2 mt0">Agency Plans</h3>
   <p class="i tl">Purchase The Art of Client Management for your whole team. Professional perks included.</p>
-  <div class="flex flex-wrap pt3 justify-center">
+  <div class="flex flex-wrap justify-center items-center">
     <div class="relative pr4">
       <div class="absolute top--1 f6 pr4">seats</div>
       <select id="seatsinput" class="bg-white b--seomba-red-accent ba br2 pa1 f4">
@@ -518,7 +518,7 @@ og: https://seomba.com/images/aocm-og.png
         <option value="Custom">> 10</option>
       </select>
     </div>
-    <div class="" id="agencyprice">$5,000</div>
+    <div class="f2 avenir fw4 mv3" id="agencyprice">$5,000</div>
   </div>
   <a id="agencybuybutton" class="pa2 ph4 seomba-light link bg-seomba-red br2 f4" href="mailto:tom@seomba.com" onclick="gtag('event', 'email', {'event_category': 'email_contact', 'event_label': 'custom'});">Buy Now</a>
   
@@ -546,15 +546,23 @@ og: https://seomba.com/images/aocm-og.png
 <script>
   const seatsinput = document.getElementById("seatsinput");
   const agencybuybutton = document.getElementById("agencybuybutton");
+  const agencyprice = document.getElementById("agencyprice");
 
   seatsinput.addEventListener('input', function (evt) {
     switch(parseInt(this.value)){
       case 0:
         break;
-      case 1:
+      case 2:
+        agencybuybutton.innerHTML = "$1,400";
+        break;
+      case 3:
+        agencybuybutton.innerHTML = "$2,000";
+        break;                
+      case 5:
         agencybuybutton.innerHTML = "$5,000";
         break;
       default:
+        agencyprice.innerHTML = "Custom";
         agencybuybutton.innerHTML = "Get in touch";
 
     };
