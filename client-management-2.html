@@ -518,7 +518,7 @@ og: https://seomba.com/images/aocm-og.png
         <option value="Custom">> 10</option>
       </select>
     </div>
-    <div class="f2 avenir fw4 mv3" id="agencyprice">$5,000</div>
+    <div class="f2 avenir fw4 mv3" id="agencyprice">$5,000 <s class="red f4 v-top"><span class="seomba">$2,975</span></s></div>
   </div>
   <a id="agencybuybutton" class="pa2 ph4 seomba-light link bg-seomba-red br2 f4" href="mailto:tom@seomba.com" onclick="gtag('event', 'email', {'event_category': 'email_contact', 'event_label': 'custom'});">Buy Now</a>
   
@@ -553,14 +553,17 @@ og: https://seomba.com/images/aocm-og.png
       case 0:
         break;
       case 2:
-        agencybuybutton.innerHTML = "$1,400";
+        agencyprice.innerHTML = "$1,400";
         break;
       case 3:
-        agencybuybutton.innerHTML = "$2,000";
+        agencyprice.innerHTML = "$1,890";
         break;                
       case 5:
-        agencybuybutton.innerHTML = "$5,000";
+        agencyprice.innerHTML = "$3,500";
         break;
+      case 10:
+        agencyprice.innerHTML = "$5,355";
+        break;        
       default:
         agencyprice.innerHTML = "Custom";
         agencybuybutton.innerHTML = "Get in touch";
