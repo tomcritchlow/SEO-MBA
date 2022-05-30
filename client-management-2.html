@@ -110,27 +110,27 @@ og: https://seomba.com/images/aocm-og.png
         case (isVisibile("intro")):
           mobilenavlabel.innerHTML = "Who it's for";
           updateNav("introlink");
-          window.location.hash = "intro";
+          history.pushState({}, "", "#intro")
           break;
         case (isVisibile("contents")):
           mobilenavlabel.innerHTML = "Course Contents";
           updateNav("courselink");
-          window.location.hash = "contents";
+          history.pushState({}, "", "#contents")
           break;
         case (isVisibile("testimonials")):
           mobilenavlabel.innerHTML = "Testimonials";
           updateNav("testimonialslink");
-          window.location.hash = "testimonials";
+          history.pushState({}, "", "#testimonials")
           break;          
         case (isVisibile("tom")):
           mobilenavlabel.innerHTML = "About Tom Critchlow";
           updateNav("tomlink");
-          window.location.hash = "tom";
+          history.pushState({}, "", "#tom")
           break;
         case (isVisibile("faq")):
           mobilenavlabel.innerHTML = "FAQ";
           updateNav("faqlink");
-          window.location.hash = "faq";
+          history.pushState({}, "", "#faq")
           break;          
       }
     });
