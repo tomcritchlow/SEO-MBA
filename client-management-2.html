@@ -299,7 +299,7 @@ og: https://seomba.com/images/aocm-og.png
   
                 <div class="w-100">
                   <img src="/images/office-hours-3.png" class="w-100">
-                </div><div class="f5 tl">The weekly office hours are intimate spaces to talk about the course or real client situations.</div>
+                </div><div class="f5 tl i">The weekly office hours are intimate spaces to talk about the course or real client situations.</div>
               </div>
             </div>
          
@@ -469,7 +469,31 @@ og: https://seomba.com/images/aocm-og.png
 <div class="w-third-l w-100 ba b--seomba-red-accent br2 bg-seomba pa4 pt4" id="professionalpricing">
   <h3 class="pt3 f2 mt3-l mt0 mb0">Professional</h3>
   <p class="tc mb4 fw5">The full course + access to weekly office hours and 1:1 feedback on homework assignments</p>
-  <p class="f2 avenir fw4 mv3">$700</p>
+  <p class="f2 avenir fw4 mv3" id="propricing">$700</p>
+
+  <div id="agencypricing">
+    <div class="flex flex-wrap justify-center items-center">
+      <div class="relative pr4">
+        <div class="absolute top--1 f6 pr4">seats</div>
+        <select id="seatsinput" class="bg-white b--seomba-red-accent ba br2 pa1 f4">
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="4">4</option>
+          <option value="5" selected>5</option>
+          <option value="6">6</option>
+          <option value="7">7</option>
+          <option value="8">8</option>
+          <option value="9">9</option>
+          <option value="10">10</option>
+          <option value="Custom">> 10</option>
+        </select>
+      </div>
+      <div class="f2 avenir fw4 mv3"><span id="agencyprice">$3,500</span> <s class="f4 v-top"><span class="seomba" id="highprice">$2,975</span></s></div>
+    </div>
+    <a id="agencybuybutton" class="pa2 ph4 seomba-light link bg-seomba-red br2 f4" href="mailto:tom@seomba.com" onclick="gtag('event', 'email', {'event_category': 'email_contact', 'event_label': 'custom'});">Buy Now</a>
+  </div>
+
   <a class="pa2 ph4 seomba-light link bg-seomba-red br2 f4" href="https://courses.seomba.com/professional-tier-executive-presence" data-podia-embed="link" onclick="gtag('event', 'podia', {'event_category': 'podia_checkout', 'event_label': 'professional'});">Buy Now</a>
 
   <div class="tl pt4 ph4-l">
@@ -498,6 +522,7 @@ og: https://seomba.com/images/aocm-og.png
 
 </div>
 
+<!--
 <div class="w-25-l w-100 ba b--seomba-red-accent br2 bg-seomba pa4 mv4 ml5-l" id="agencypricing">
   <h3 class="f2 mt0">Agency Plans</h3>
   <p class="tc fw5">Purchase the course for your whole team. Professional perks included.</p>
@@ -532,6 +557,7 @@ og: https://seomba.com/images/aocm-og.png
       </ul>
   </p>
 </div>
+-->
 
 </div>
 
