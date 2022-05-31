@@ -475,7 +475,7 @@ og: https://seomba.com/images/aocm-og.png
   <a class="pa2 ph4 seomba-light link bg-seomba-red br2 f4" href="https://courses.seomba.com/professional-tier-executive-presence" data-podia-embed="link" onclick="gtag('event', 'podia', {'event_category': 'podia_checkout', 'event_label': 'professional'});">Buy Now</a>
   </div>
 
-  <div id="agencypricing">
+  <div id="agencypricing" class="dn">
     <div class="flex flex-wrap justify-center items-center mv3">
       <div class="relative pr4">
         <div class="absolute top--1 f6 pr4">seats</div>
@@ -614,7 +614,7 @@ og: https://seomba.com/images/aocm-og.png
         agencyprice.innerHTML = "Custom";
         highprice.textContent = "";
         agencybuybutton.innerHTML = "Get in touch";
-        agencybuybutton.href = "mailto:tom@seomba.com;
+        agencybuybutton.href = "mailto:tom@seomba.com";
 
     };
   });
@@ -623,7 +623,6 @@ og: https://seomba.com/images/aocm-og.png
   const essentialpricing = document.getElementById("essentialpricing");
   const agencypricing = document.getElementById("agencypricing");
   
-  $("#agencypricing").toggle();
   agencytoggle.addEventListener('click', function (evt) {
     
     $("#propricing").toggle();
