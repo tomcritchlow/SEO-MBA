@@ -10,11 +10,14 @@ If you already purchased the [Executive Presence](/executive-presence/) course t
 * Essentials access
 * Professional access
 
-<a class="pa2 ph4 seomba-light link bg-seomba-red br2 f4" href="NBED" data-podia-embed="link" >$300 Buy Now</a>
+<a class="pa2 ph4 seomba-light link bg-seomba-red br2 f4 grow" href="NBED" data-podia-embed="link" >$300 Buy Now</a>
 
 ## Add The Art of Client Management - Professional Tier
 
-What you get:
+* Essentials access
+* Professional access
+
+<a class="pa2 ph4 seomba-light link bg-seomba-red br2 f4 grow" href="NBED" data-podia-embed="link" >$400 Buy Now</a>
 
 
 
