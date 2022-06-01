@@ -1,6 +1,7 @@
 ---
 title: You're In!
 layout: page
+noindex: true
 ---
 
 Welcome to the SEO MBA beta course for "Executive Presence for SEOs".

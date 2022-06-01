@@ -1,6 +1,7 @@
 ---
 title: Thank you!
 layout: page
+noindex: true
 ---
 
 Thank you for purchasing an agency plan. I'll be in touch very soon.
