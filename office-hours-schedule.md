@@ -4,7 +4,7 @@ layout: page
 noindex: true
 ---
 
-If you have enrolled on the SEO MBA course at the Professional tier or Executive tier then you get access to the weekly office hours.
+If you enroll in an SEO MBA course at the Professional tier then you get access to the weekly office hours. These are small, informal chats to talk about course materials or real challenges. Drop in anytime!
 
 Please do not share this URL. 
 
