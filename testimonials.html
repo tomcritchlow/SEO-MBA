@@ -225,7 +225,7 @@ og: https://seomba.com/images/testimonials-og.png
         {% include testimonial.html
 
           quote = "I really enjoyed the SEO MBA course. The training helped me in 3 ways:
-          <br>1. It helped me understand how decision making goes in medium and larger organizations;
+          <br><br>1. It helped me understand how decision making goes in medium and larger organizations;
           <br>2. It gave me confidence that I would know how to navigate inside this organization;
           <br>3. It contained a lot of practically applicable tips on how to create and execute SEO plans/strategies. 
           <br><br>
@@ -261,6 +261,14 @@ og: https://seomba.com/images/testimonials-og.png
         </div>      
 
     </div>
+
+    <script>
+      $( ".expandquote" ).click(function(event) {
+        event.preventDefault();
+        $(this).closest(".shortquote").toggle();
+        $(this).closest(".longquote").toggle()
+      });
+    </script>
 
     </div>
 
