@@ -1,0 +1,8 @@
+<script>
+    $( ".expandquote" ).click(function(event) {
+      event.preventDefault();
+      $(this).parent().siblings(".shortquote").hide();
+      $(this).parent().siblings(".longquote").show();
+      $(this).hide();
+    });
+  </script>
