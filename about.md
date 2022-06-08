@@ -25,4 +25,4 @@ Executive presence is essential whether you’re working in-house, agency side o
 
 That's why the SEO MBA exists.
 
-There's a <a href="https://seomba.substack.com">free regular email</a> and a <a href="https://seomba.com/executive-presence/">self paced online course</a>.
+There's a <a href="https://newslettter.seomba.com">free regular email</a> and a <a href="https://seomba.com/executive-presence/">self paced online course</a>.
