@@ -603,7 +603,13 @@ og: https://seomba.com/images/course-og-full.png
       {% include footer.html %}
         
        
-      
+<script>
+  fetch('https://ipinfo.io/json')
+  .then(response => response.json())
+  .then(data => console.log(data)).catch(()=>{
+   ///Exception occured do something
+})
+</script>      
 
 
       
