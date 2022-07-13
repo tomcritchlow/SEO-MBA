@@ -465,7 +465,7 @@ og: https://seomba.com/images/course-og-full.png
   <h2 class="seomba-light w-100 center tc f2 mb0">Enroll Today</h2>
   <h3 class="seomba-light w-100 avenir tc f3 mt2 fw4 pb4">Instant access, lifetime updates</h3>
 
-  <div id="paritypricing" class="dn bg-light-yellow pa4">Hey there, it looks like you're visiting from <span id="countryname" class=""></span>. There is parity pricing available so use the discount code PPP50 for 50% off all purchases.</div>
+  <div id="paritypricing" class="dn bg-lightest-blue mw7 w-90 center f3 ma4-l pa4">Hey there, it looks like you're visiting from <span id="countryname" class=""></span>. There is parity pricing available so if you need it, use the discount code PPP50 for 50% off all purchases.</div>
 
 <div class="flex flex-wrap w-100 justify-center mw9">
 
@@ -613,11 +613,23 @@ og: https://seomba.com/images/course-og-full.png
 })
 
 function geofunction(data){
-  const regionNames = new Intl.DisplayNames(
-  ['en'], {type: 'region'}
-  );
-  console.log(regionNames.of(data.country))
+  // Parity pricing countries determined from here:
+  // https://www.exportator.com/purchasing-power-parity-pricing-calculator
+  // But if you're looking at the source code and feel like you need the help
+  // Then please grab the parity discount code and use it :)
+  // Much love,
+  // Tom
+  var PPP_countries = ['CH','IL','DK','IS','VU','AU','FI','LU','NZ','FM','YE','NO','SB','SE','MH','BS','TV','AD','CK','CU','KP','PS','SY','VE','US','AT','BB','CA','IE','GB','BE','FR','NL','DE','JP','IT'];
+
+  if(!PPP_countries.includes(data.country)){
+    const regionNames = new Intl.DisplayNames(['en'], {type: 'region'});
+    console.log("Visitor from "+regionNames.of(data.country)+" showing parity pricing.");
+    $("#paritypricing").toggle();
+    $("#countryname").html(regionNames.of(data.country));
+  }
 };
+
+
 
 </script>      
 
