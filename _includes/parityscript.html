@@ -12,13 +12,20 @@
     // Then please grab the parity discount code and use it :)
     // Much love,
     // Tom
-    var PPP_countries = ['CH','IL','DK','IS','VU','AU','FI','LU','NZ','FM','YE','NO','SB','SE','MH','BS','TV','AD','CK','CU','KP','PS','SY','VE','US','AT','BB','CA','IE','GB','BE','FR','NL','DE','JP','IT'];
+    
+    var PPP_0 = ['CH','IL','DK','IS','VU','AU','FI','LU','NZ','FM','YE','NO','SB','SE','MH','BS','TV','AD','CK','CU','KP','PS','SY','VE','US','AT','BB','CA','IE','GB','BE','FR','NL','DE','JP'];
+
+    var PPP_15 = ['IT','KI','SM','PR','WS','HK','ES','TO','ER','LC','KR','PT','SI','DM','CY','MO','EE','GR'];
   
-    if(!PPP_countries.includes(data.country)){
+    if(!PPP_0.includes(data.country)){
       const regionNames = new Intl.DisplayNames(['en'], {type: 'region'});
-      console.log("Visitor from "+regionNames.of(data.country)+" showing parity pricing.");
       $("#paritypricing").toggle();
       $("#countryname").html(regionNames.of(data.country));
+      if(PPP_15.includes(data.country)){
+        $("#pppcode").html("PPP15");
+        $("#pppdiscount").html("15%");
+      }
+      console.log("Visitor from "+regionNames.of(data.country)+" showing parity pricing.");
       gtag('event', 'parity', {'event_category': 'parity', 'event_label': data.country});
     }
   };
