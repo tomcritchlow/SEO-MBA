@@ -1,0 +1,26 @@
+<script>
+    fetch('https://ipinfo.io/json?token=e4d03dda8c62e3')
+    .then(response => response.json())
+    .then(data => geofunction(data)).catch(()=>{
+     ///Exception occured do something
+  })
+  
+  function geofunction(data){
+    // Parity pricing countries determined from here:
+    // https://www.exportator.com/purchasing-power-parity-pricing-calculator
+    // But if you're looking at the source code and feel like you need the help
+    // Then please grab the parity discount code and use it :)
+    // Much love,
+    // Tom
+    var PPP_countries = ['CH','IL','DK','IS','VU','AU','FI','LU','NZ','FM','YE','NO','SB','SE','MH','BS','TV','AD','CK','CU','KP','PS','SY','VE','US','AT','BB','CA','IE','GB','BE','FR','NL','DE','JP','IT'];
+  
+    if(!PPP_countries.includes(data.country)){
+      const regionNames = new Intl.DisplayNames(['en'], {type: 'region'});
+      console.log("Visitor from "+regionNames.of(data.country)+" showing parity pricing.");
+      $("#paritypricing").toggle();
+      $("#countryname").html(regionNames.of(data.country));
+      gtag('event', 'parity', {'event_category': 'parity', 'event_label': data.country});
+    }
+  };
+  </script>      
+  
