@@ -1,6 +1,7 @@
 ---
-title: Buy the SEO MBA for your team
-layout: page
+title: SEO MBA Team Pricing
 ---
 
-Team pricing and discounts in a table. Inspired by: https://shiftnudge.com/team
+{% include head.html %}
+
+<h1>Buy the SEO MBA for your team</h1>
