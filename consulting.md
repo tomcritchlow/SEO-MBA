@@ -2,6 +2,7 @@
 title: SEO Capability Consulting
 subtitle: Understand and build the SEO program in your organization
 layout: tufte
+og: https://seomba.com/consulting-og.png
 ---
 
 SEO is an outcome, but companies treat it like a function. This disconnect leads to broken SEO programs that are ineffective, with teams internally that lack trust and buy-in. Instead modern SEO requires embedding processes and knowledge in the right place (i.e. directly within product and content teams) supported by metrics and reporting that ties SEO to business value.
