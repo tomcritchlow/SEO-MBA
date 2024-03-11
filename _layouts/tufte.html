@@ -1,0 +1,22 @@
+{% include head.html %}
+
+<body class="w-100 h-100 db bg-seomba avenir">
+
+{% include nav.html %}
+
+<div class="mw8 center lh-copy f4 postcontainer ph3 ph0-l h-entry" role="article">
+      <div class="pt4 pt5-l pb2 w-two-thirds-ns">
+        <h1 class="f2 lh-title fw9 mb3 mt0 pt3">
+            {{page.title}}
+            {% if page.subtitle %}
+            <h2 class="f3 mid-gray lh-title">
+              {{page.subtitle}}
+            </h2>
+            {% endif %}
+            <div class="f4 lh-copy mt0-ns avenir">
+                {{content}}
+                </div>
+      </div>
+</div>
+
+{% include footer.html %}
