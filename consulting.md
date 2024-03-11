@@ -5,7 +5,7 @@ layout: tufte
 og: https://seomba.com/images/consulting-og.png
 ---
 
-SEO is an outcome, but companies treat it like a function. This disconnect leads to broken SEO programs that are ineffective, with teams internally that lack trust and buy-in. Instead modern SEO requires embedding processes and knowledge in the right place (i.e. directly within product and content teams) supported by metrics and reporting that ties SEO to business value.
+SEO is an outcome, but companies treat it like a function. This disconnect leads to broken SEO programs that are ineffective, with teams internally that lack trust and buy-in. Instead modern SEO requires embedding processes and knowledge in the right place (such as directly within product and content teams) supported by metrics and reporting that ties SEO to business value.
 
 I’ve been working in SEO for 15+ years and have consulted with 100s of companies large and small. My focus now is on helping companies assess and build SEO capabilities. This approach rejects the traditional “SEO audit” mentality and takes a deeper root cause analysis to build more effective and sustainable SEO programs.
 
@@ -13,7 +13,7 @@ I’ve been working in SEO for 15+ years and have consulted with 100s of compani
 
 * **SEO maturity analysis**. Assess your existing SEO capabilities and understand where you can improve your leverage.
 * **SEO investment strategy**. Create a multi-year SEO roadmap tied to the overall SEO investment, headcount and resource allocation.
-* **Due diligence**. For companies looking to make acquisitions, ensure that you understand the SEO TAM, capabilities and value of the existing SEO capabilities.
+* **Due diligence**. For companies looking to make acquisitions, ensure that you understand the SEO total addressable market, capabilities and value of the existing SEO program.
 * **Executive advisor**. For CMOs and CPOs that need to understand SEO but lack first hand expertise I can partner with you to ensure you have a strategic advisor across complex decisions like resource allocation, team structure and vendor selection.
 
 ## Clients I’ve Worked With
