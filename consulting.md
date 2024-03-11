@@ -30,12 +30,12 @@ I’ve been working in SEO for 15+ years and have consulted with 100s of compani
 
 > *“Tom brings a unique mix of SEO, business strategy and executive presence. Working together we have successfully secured investment to build modern SEO programs, driven valuable revenue growth and transformed SEO into a strategic business lever with executive leadership at various enterprises.”*
 
-*"Tom is one of the clearest business thinkers I’ve ever had the privilege of working with. His ability to synthesize complex and copious amounts of ideas and material into clear and operational strategy is unparalleled. Tom is the person I first think of to call both when I’m presented with a brand new opportunity and when I’m stuck on a project where I’ve made significant progress."*
+> *"Tom is one of the clearest business thinkers I’ve ever had the privilege of working with. His ability to synthesize complex and copious amounts of ideas and material into clear and operational strategy is unparalleled. Tom is the person I first think of to call both when I’m presented with a brand new opportunity and when I’m stuck on a project where I’ve made significant progress."*
 
 > *"Tom Critchlow is one of the best I've worked with when it comes to SEO. We worked together on a startup and he has that amazing blend of seeing the big picture and being able to roll up his sleeves to get the work done.*
 
 ## Book an Intro Call
 
-<a class="br2 pa2 pa3-l bg-seomba-red seomba-light dib grow f4 link" href="https://calendly.com/tomcritchlow/tom-chat">Schedule a demo</a>
+<a class="br2 pa2 bg-seomba-red seomba-light dib grow f4 link" href="https://calendly.com/tomcritchlow/tom-chat">Schedule an intro call</a>
 
 *Or drop me an email: tom@seomba.com*
