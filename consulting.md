@@ -1,7 +1,7 @@
 ---
 title: SEO Capability Consulting
 subtitle: Understand and build the SEO program in your organization
-layout: page
+layout: tufte
 ---
 
 SEO is an outcome, but companies treat it like it’s it’s own function. Instead modern SEO requires embedding SEO knowledge in the right place (i.e. product and content teams) while ensuring metrics and observability via robust data and reporting.
