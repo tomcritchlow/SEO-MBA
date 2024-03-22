@@ -37,6 +37,6 @@ I’ve been working in SEO for 15+ years and have consulted with 100s of compani
 
 ## Book an Intro Call
 
-<a class="br2 pa2 bg-seomba-red seomba-light dib grow f4 link" href="https://calendly.com/tomcritchlow/tom-chat">Schedule an intro call</a>
+<a class="br2 pa2 bg-seomba-red seomba-light dib grow f4 link white" href="https://calendly.com/tomcritchlow/tom-chat">Schedule an intro call</a>
 
 *Or drop me an email: tom@seomba.com*
